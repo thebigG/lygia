@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://58yh0eiypusq"
+path="res://.godot/imported/directionalEvaluate.glsl-f9d6c21f39c90d333255dc70d6b98a6b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/light/directionalEvaluate.glsl"
+dest_files=["res://.godot/imported/directionalEvaluate.glsl-f9d6c21f39c90d333255dc70d6b98a6b.res"]
+
+[params]
+

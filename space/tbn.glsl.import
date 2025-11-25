@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c5ywddp5173le"
+path="res://.godot/imported/tbn.glsl-5d6597da6438c38a35cc7c12fe44a67b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/tbn.glsl"
+dest_files=["res://.godot/imported/tbn.glsl-5d6597da6438c38a35cc7c12fe44a67b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bf6uxdw2rik8o"
+path="res://.godot/imported/saturate.glsl-3d30e11fa8dbe48164bcc8de42754584.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/saturate.glsl"
+dest_files=["res://.godot/imported/saturate.glsl-3d30e11fa8dbe48164bcc8de42754584.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cjcx2ilq1h3qp"
+path="res://.godot/imported/darkenSourceOver.glsl-5498e776129b20454ffe264c100f1492.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/darkenSourceOver.glsl"
+dest_files=["res://.godot/imported/darkenSourceOver.glsl-5498e776129b20454ffe264c100f1492.res"]
+
+[params]
+

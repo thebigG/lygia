@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://84hksxqxy1hr"
+path="res://.godot/imported/envBRDFApprox.glsl-68b5934020a0dd7caed6ff53abc9091c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/envBRDFApprox.glsl"
+dest_files=["res://.godot/imported/envBRDFApprox.glsl-68b5934020a0dd7caed6ff53abc9091c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bw05p4aclbosy"
+path="res://.godot/imported/pinLight.glsl-c8c46e8f40853f44aafc4641c6fcc361.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/pinLight.glsl"
+dest_files=["res://.godot/imported/pinLight.glsl-c8c46e8f40853f44aafc4641c6fcc361.res"]
+
+[params]
+

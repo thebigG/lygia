@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://coxv086mhxegq"
+path="res://.godot/imported/octahedronSDF.glsl-37e66aede347a36a8f5f33c5447008f4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/octahedronSDF.glsl"
+dest_files=["res://.godot/imported/octahedronSDF.glsl-37e66aede347a36a8f5f33c5447008f4.res"]
+
+[params]
+

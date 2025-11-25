@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d0dq0qor03wj"
+path="res://.godot/imported/iblEvaluate.glsl-c72cbc04a8e01949ccd0738b689eb5e0.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/light/iblEvaluate.glsl"
+dest_files=["res://.godot/imported/iblEvaluate.glsl-c72cbc04a8e01949ccd0738b689eb5e0.res"]
+
+[params]
+

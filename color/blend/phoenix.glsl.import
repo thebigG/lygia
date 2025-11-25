@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bgb8kxa6gflgd"
+path="res://.godot/imported/phoenix.glsl-13784ccae5e599ad2cc5004bdcdb9f12.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/phoenix.glsl"
+dest_files=["res://.godot/imported/phoenix.glsl-13784ccae5e599ad2cc5004bdcdb9f12.res"]
+
+[params]
+

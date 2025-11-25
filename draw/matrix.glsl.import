@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dcrrd50summf1"
+path="res://.godot/imported/matrix.glsl-deb2a822d372f82869150126cff247be.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/draw/matrix.glsl"
+dest_files=["res://.godot/imported/matrix.glsl-deb2a822d372f82869150126cff247be.res"]
+
+[params]
+

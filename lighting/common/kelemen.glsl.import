@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bp11guri2s1ry"
+path="res://.godot/imported/kelemen.glsl-58542c82466ebeeb9264241a45f827dd.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/kelemen.glsl"
+dest_files=["res://.godot/imported/kelemen.glsl-58542c82466ebeeb9264241a45f827dd.res"]
+
+[params]
+

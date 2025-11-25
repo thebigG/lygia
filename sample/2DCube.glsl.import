@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cg3wj12ch6uf4"
+path="res://.godot/imported/2DCube.glsl-cf108dced84469138a1ac9c117152fcd.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/2DCube.glsl"
+dest_files=["res://.godot/imported/2DCube.glsl-cf108dced84469138a1ac9c117152fcd.res"]
+
+[params]
+

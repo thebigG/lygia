@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://by3gq7mion34l"
+path="res://.godot/imported/rhombSDF.glsl-ea84fa37f50a282b64757c121898fe93.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/rhombSDF.glsl"
+dest_files=["res://.godot/imported/rhombSDF.glsl-ea84fa37f50a282b64757c121898fe93.res"]
+
+[params]
+

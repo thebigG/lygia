@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://jbattrbvqxei"
+path="res://.godot/imported/lerp.glsl-45f8852c626c8ae0f99cea872cc2710a.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/lerp.glsl"
+dest_files=["res://.godot/imported/lerp.glsl-45f8852c626c8ae0f99cea872cc2710a.res"]
+
+[params]
+

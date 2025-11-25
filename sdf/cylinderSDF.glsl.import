@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://tysaaug7id3w"
+path="res://.godot/imported/cylinderSDF.glsl-1abffd85c969133eb62b337151187013.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/cylinderSDF.glsl"
+dest_files=["res://.godot/imported/cylinderSDF.glsl-1abffd85c969133eb62b337151187013.res"]
+
+[params]
+

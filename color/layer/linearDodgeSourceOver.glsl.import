@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cuumfi07yagfq"
+path="res://.godot/imported/linearDodgeSourceOver.glsl-9a0f069c9a26d1bc3789a51246413836.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/linearDodgeSourceOver.glsl"
+dest_files=["res://.godot/imported/linearDodgeSourceOver.glsl-9a0f069c9a26d1bc3789a51246413836.res"]
+
+[params]
+

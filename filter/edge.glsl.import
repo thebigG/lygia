@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bel2g3riphem6"
+path="res://.godot/imported/edge.glsl-e9a36faee86d7c0b620f18e3c0f545d1.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/edge.glsl"
+dest_files=["res://.godot/imported/edge.glsl-e9a36faee86d7c0b620f18e3c0f545d1.res"]
+
+[params]
+

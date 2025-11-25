@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c2435la6f48a7"
+path="res://.godot/imported/barrel.glsl-c34726cc507d6f42451ebc8039d340ba.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/distort/barrel.glsl"
+dest_files=["res://.godot/imported/barrel.glsl-c34726cc507d6f42451ebc8039d340ba.res"]
+
+[params]
+

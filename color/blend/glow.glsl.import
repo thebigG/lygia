@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c51bahwqpymmv"
+path="res://.godot/imported/glow.glsl-b351c64bad0ed08fb0a3e12a2d27a762.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/glow.glsl"
+dest_files=["res://.godot/imported/glow.glsl-b351c64bad0ed08fb0a3e12a2d27a762.res"]
+
+[params]
+

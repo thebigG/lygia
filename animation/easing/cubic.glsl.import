@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ofxqhwjpxmwu"
+path="res://.godot/imported/cubic.glsl-156122aa587f26641d37a280d49ad2cb.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/cubic.glsl"
+dest_files=["res://.godot/imported/cubic.glsl-156122aa587f26641d37a280d49ad2cb.res"]
+
+[params]
+

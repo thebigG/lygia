@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cafq2mfe56cyl"
+path="res://.godot/imported/contrast.glsl-cb4fcfd037c5c90da0c808b26b716ce9.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/contrast.glsl"
+dest_files=["res://.godot/imported/contrast.glsl-cb4fcfd037c5c90da0c808b26b716ce9.res"]
+
+[params]
+

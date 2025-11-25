@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://jpn06jq37bis"
+path="res://.godot/imported/prewitt.glsl-af9329c4cb5b6c4309538627005dbca3.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/edge/prewitt.glsl"
+dest_files=["res://.godot/imported/prewitt.glsl-af9329c4cb5b6c4309538627005dbca3.res"]
+
+[params]
+

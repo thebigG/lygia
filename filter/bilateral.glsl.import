@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bowblae6mag4d"
+path="res://.godot/imported/bilateral.glsl-ae1ddb1b946b09db2221de166df8d736.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/bilateral.glsl"
+dest_files=["res://.godot/imported/bilateral.glsl-ae1ddb1b946b09db2221de166df8d736.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://htgvbwh3d7th"
+path="res://.godot/imported/latticeBoltzmann.glsl-cd7fc48b5ccaa0cf553aac3bb40675fb.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/simulate/latticeBoltzmann.glsl"
+dest_files=["res://.godot/imported/latticeBoltzmann.glsl-cd7fc48b5ccaa0cf553aac3bb40675fb.res"]
+
+[params]
+

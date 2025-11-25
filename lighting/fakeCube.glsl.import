@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bn2m02htdias6"
+path="res://.godot/imported/fakeCube.glsl-56abece941807d124726a273255996c5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/fakeCube.glsl"
+dest_files=["res://.godot/imported/fakeCube.glsl-56abece941807d124726a273255996c5.res"]
+
+[params]
+

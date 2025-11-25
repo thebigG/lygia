@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://qrvjhno0ofnu"
+path="res://.godot/imported/identity.glsl-d3088cbdce44a8ee93d2a882e519c36a.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/quat/identity.glsl"
+dest_files=["res://.godot/imported/identity.glsl-d3088cbdce44a8ee93d2a882e519c36a.res"]
+
+[params]
+

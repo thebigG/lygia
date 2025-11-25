@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://du4c2adrmkpo1"
+path="res://.godot/imported/alphaHashing.glsl-cf64946ec53c6e7c885e18bce78ebac6.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/morphological/alphaHashing.glsl"
+dest_files=["res://.godot/imported/alphaHashing.glsl-cf64946ec53c6e7c885e18bce78ebac6.res"]
+
+[params]
+

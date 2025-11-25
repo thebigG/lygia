@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b1s3gjoir378g"
+path="res://.godot/imported/daltonize.glsl-70d05f1bbbb5de31eb9b65c5b06680a7.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/daltonize.glsl"
+dest_files=["res://.godot/imported/daltonize.glsl-70d05f1bbbb5de31eb9b65c5b06680a7.res"]
+
+[params]
+

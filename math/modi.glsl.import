@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cu1vribdsbo72"
+path="res://.godot/imported/modi.glsl-16a53571c3077e39975198637387afa4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/modi.glsl"
+dest_files=["res://.godot/imported/modi.glsl-16a53571c3077e39975198637387afa4.res"]
+
+[params]
+

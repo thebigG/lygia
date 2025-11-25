@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c46rct5xiaga1"
+path="res://.godot/imported/levels.glsl-9e143b4ae34b9afd1b008a72f2eb35af.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/levels.glsl"
+dest_files=["res://.godot/imported/levels.glsl-9e143b4ae34b9afd1b008a72f2eb35af.res"]
+
+[params]
+

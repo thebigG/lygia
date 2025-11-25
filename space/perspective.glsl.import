@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bp2880emc0m17"
+path="res://.godot/imported/perspective.glsl-89fcb57bc9d142093568d1592c9ac740.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/perspective.glsl"
+dest_files=["res://.godot/imported/perspective.glsl-89fcb57bc9d142093568d1592c9ac740.res"]
+
+[params]
+

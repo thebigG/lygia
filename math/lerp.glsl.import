@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cvxbqwr8h0lwn"
+path="res://.godot/imported/lerp.glsl-1157a8b8bec756c004229e5e0a763b08.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/lerp.glsl"
+dest_files=["res://.godot/imported/lerp.glsl-1157a8b8bec756c004229e5e0a763b08.res"]
+
+[params]
+

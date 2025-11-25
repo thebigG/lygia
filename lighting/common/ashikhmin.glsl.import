@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ojuw5sp5m4y"
+path="res://.godot/imported/ashikhmin.glsl-87c7e5687232706d21fa659a5267e807.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/ashikhmin.glsl"
+dest_files=["res://.godot/imported/ashikhmin.glsl-87c7e5687232706d21fa659a5267e807.res"]
+
+[params]
+

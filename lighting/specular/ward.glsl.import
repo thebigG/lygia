@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://da46oxkrqkxh3"
+path="res://.godot/imported/ward.glsl-6d623de89a8cfdb08284b54bf0afb4e3.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/specular/ward.glsl"
+dest_files=["res://.godot/imported/ward.glsl-6d623de89a8cfdb08284b54bf0afb4e3.res"]
+
+[params]
+

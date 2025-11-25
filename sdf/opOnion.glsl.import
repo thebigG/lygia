@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dsaa0i1qklosk"
+path="res://.godot/imported/opOnion.glsl-e672c1b1b26888382bdebdb25c9717bb.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/opOnion.glsl"
+dest_files=["res://.godot/imported/opOnion.glsl-e672c1b1b26888382bdebdb25c9717bb.res"]
+
+[params]
+

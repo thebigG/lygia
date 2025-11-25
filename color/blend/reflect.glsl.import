@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://drwaevt2c36ty"
+path="res://.godot/imported/reflect.glsl-b8bbaea030c1082f7bd80d347dfdf526.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/reflect.glsl"
+dest_files=["res://.godot/imported/reflect.glsl-b8bbaea030c1082f7bd80d347dfdf526.res"]
+
+[params]
+

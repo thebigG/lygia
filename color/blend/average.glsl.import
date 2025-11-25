@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ba06odh5s4ald"
+path="res://.godot/imported/average.glsl-7c796b1ec2c3f041b9f2366b8f6f5346.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/average.glsl"
+dest_files=["res://.godot/imported/average.glsl-7c796b1ec2c3f041b9f2366b8f6f5346.res"]
+
+[params]
+

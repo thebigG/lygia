@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dgx55mdhmpcp2"
+path="res://.godot/imported/beckmann.glsl-2ac07aac73c07ec616f9d0ef595581ea.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/beckmann.glsl"
+dest_files=["res://.godot/imported/beckmann.glsl-2ac07aac73c07ec616f9d0ef595581ea.res"]
+
+[params]
+

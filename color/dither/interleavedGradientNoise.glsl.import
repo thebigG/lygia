@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bvnqw6xi2erl7"
+path="res://.godot/imported/interleavedGradientNoise.glsl-504dc69ecfe72b2f5f705c99c959f0bb.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/dither/interleavedGradientNoise.glsl"
+dest_files=["res://.godot/imported/interleavedGradientNoise.glsl-504dc69ecfe72b2f5f705c99c959f0bb.res"]
+
+[params]
+

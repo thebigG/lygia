@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dqq3lfcgqbg2t"
+path="res://.godot/imported/barycentric.glsl-ac8ab5deaeb29c98f047d22850726912.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/triangle/barycentric.glsl"
+dest_files=["res://.godot/imported/barycentric.glsl-ac8ab5deaeb29c98f047d22850726912.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://byy3hcnfufbgp"
+path="res://.godot/imported/diagonal.glsl-6514b68bcd502a7e2f4897ec425ad3bd.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/aabb/diagonal.glsl"
+dest_files=["res://.godot/imported/diagonal.glsl-6514b68bcd502a7e2f4897ec425ad3bd.res"]
+
+[params]
+

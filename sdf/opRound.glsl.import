@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://1sqwrgv32b03"
+path="res://.godot/imported/opRound.glsl-4551166f7174021281a3e4437ba4810d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/opRound.glsl"
+dest_files=["res://.godot/imported/opRound.glsl-4551166f7174021281a3e4437ba4810d.res"]
+
+[params]
+

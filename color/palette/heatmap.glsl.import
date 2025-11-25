@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c2cyq6e4dfxw5"
+path="res://.godot/imported/heatmap.glsl-7d768153467cc427672e9ee1b6f0c7c6.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/heatmap.glsl"
+dest_files=["res://.godot/imported/heatmap.glsl-7d768153467cc427672e9ee1b6f0c7c6.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ba84er1or1veu"
+path="res://.godot/imported/perceptual2linearRoughness.glsl-58e47eccac795f085b67be9d1eb15e87.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/perceptual2linearRoughness.glsl"
+dest_files=["res://.godot/imported/perceptual2linearRoughness.glsl-58e47eccac795f085b67be9d1eb15e87.res"]
+
+[params]
+

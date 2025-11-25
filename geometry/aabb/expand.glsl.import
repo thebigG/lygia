@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cuqm66c4vupnp"
+path="res://.godot/imported/expand.glsl-2bda2ad4023ebb0f94a6d334944d9b13.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/aabb/expand.glsl"
+dest_files=["res://.godot/imported/expand.glsl-2bda2ad4023ebb0f94a6d334944d9b13.res"]
+
+[params]
+

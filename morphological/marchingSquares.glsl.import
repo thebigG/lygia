@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://brq3wiorrdo60"
+path="res://.godot/imported/marchingSquares.glsl-4393c5f25b0f6158943a28a72f986da2.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/morphological/marchingSquares.glsl"
+dest_files=["res://.godot/imported/marchingSquares.glsl-4393c5f25b0f6158943a28a72f986da2.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://blo6dn0k7oeig"
+path="res://.godot/imported/blackbody.glsl-36ac0573acf71ff9c14a9d93a73318cf.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/blackbody.glsl"
+dest_files=["res://.godot/imported/blackbody.glsl-36ac0573acf71ff9c14a9d93a73318cf.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cvmub8qtj22b1"
+path="res://.godot/imported/shift.glsl-4cfd15b98e37443ab5949958d0b2acbb.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/dither/shift.glsl"
+dest_files=["res://.godot/imported/shift.glsl-4cfd15b98e37443ab5949958d0b2acbb.res"]
+
+[params]
+

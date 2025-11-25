@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bssnl0nnnnkmf"
+path="res://.godot/imported/smithGGXCorrelated.glsl-60e3a47a50f15b0ab5b08d9dfcedfd0d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/smithGGXCorrelated.glsl"
+dest_files=["res://.godot/imported/smithGGXCorrelated.glsl-60e3a47a50f15b0ab5b08d9dfcedfd0d.res"]
+
+[params]
+

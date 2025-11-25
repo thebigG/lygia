@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dhpbsdroup6qn"
+path="res://.godot/imported/penner.glsl-f4b27d57743c22515641c65f73fd4885.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/penner.glsl"
+dest_files=["res://.godot/imported/penner.glsl-f4b27d57743c22515641c65f73fd4885.res"]
+
+[params]
+

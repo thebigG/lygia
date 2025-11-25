@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://blj43ew7uc8h2"
+path="res://.godot/imported/negationSourceOver.glsl-ad96160c386088537a7d70aad4e567f6.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/negationSourceOver.glsl"
+dest_files=["res://.godot/imported/negationSourceOver.glsl-ad96160c386088537a7d70aad4e567f6.res"]
+
+[params]
+

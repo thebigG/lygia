@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c4pdpe4tpxp67"
+path="res://.godot/imported/zucconi6.glsl-10ebd0f9a18b6c0a7b4a173427f91078.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/spectral/zucconi6.glsl"
+dest_files=["res://.godot/imported/zucconi6.glsl-10ebd0f9a18b6c0a7b4a173427f91078.res"]
+
+[params]
+

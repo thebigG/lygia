@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cic2v2fe45m06"
+path="res://.godot/imported/preFilteredImportanceSampling.glsl-035e436c29d05eedd80d2001c10a12f7.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/preFilteredImportanceSampling.glsl"
+dest_files=["res://.godot/imported/preFilteredImportanceSampling.glsl-035e436c29d05eedd80d2001c10a12f7.res"]
+
+[params]
+

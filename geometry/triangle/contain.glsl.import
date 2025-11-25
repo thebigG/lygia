@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cwtq20b4ac0o8"
+path="res://.godot/imported/contain.glsl-ce99789667378ecc9108938c5691568c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/triangle/contain.glsl"
+dest_files=["res://.godot/imported/contain.glsl-ce99789667378ecc9108938c5691568c.res"]
+
+[params]
+

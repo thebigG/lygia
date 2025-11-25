@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dioywqflv221t"
+path="res://.godot/imported/1D.glsl-d74f67d12335ed89dd051dff2021f174.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/gaussianBlur/1D.glsl"
+dest_files=["res://.godot/imported/1D.glsl-d74f67d12335ed89dd051dff2021f174.res"]
+
+[params]
+

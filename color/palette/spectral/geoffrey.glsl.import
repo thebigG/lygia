@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://elqdttry6d4h"
+path="res://.godot/imported/geoffrey.glsl-463736b08b5fd13ab859576046aa5155.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/spectral/geoffrey.glsl"
+dest_files=["res://.godot/imported/geoffrey.glsl-463736b08b5fd13ab859576046aa5155.res"]
+
+[params]
+

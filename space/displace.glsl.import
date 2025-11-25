@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://do102aexm24j"
+path="res://.godot/imported/displace.glsl-75fd77f117c7679c18a46169519761d4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/displace.glsl"
+dest_files=["res://.godot/imported/displace.glsl-75fd77f117c7679c18a46169519761d4.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ct4be6w5afmie"
+path="res://.godot/imported/albedo.glsl-9556bd63f871fce4e7efed642220eb14.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/material/albedo.glsl"
+dest_files=["res://.godot/imported/albedo.glsl-9556bd63f871fce4e7efed642220eb14.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bfi0qwafkco2a"
+path="res://.godot/imported/kuwahara.glsl-d563e01f081f2cb3abd3ff322d029507.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/kuwahara.glsl"
+dest_files=["res://.godot/imported/kuwahara.glsl-d563e01f081f2cb3abd3ff322d029507.res"]
+
+[params]
+

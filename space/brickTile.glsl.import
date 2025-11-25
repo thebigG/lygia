@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dle4ebdp3nihm"
+path="res://.godot/imported/brickTile.glsl-4d0a6abbc0e85474a05793cb806c955e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/brickTile.glsl"
+dest_files=["res://.godot/imported/brickTile.glsl-4d0a6abbc0e85474a05793cb806c955e.res"]
+
+[params]
+

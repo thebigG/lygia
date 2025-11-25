@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://duehnv8370v1x"
+path="res://.godot/imported/absi.glsl-b6cc20e4160356e4c285b32dd724fdee.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/absi.glsl"
+dest_files=["res://.godot/imported/absi.glsl-b6cc20e4160356e4c285b32dd724fdee.res"]
+
+[params]
+

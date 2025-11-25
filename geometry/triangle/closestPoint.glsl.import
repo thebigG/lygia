@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ccplyravcb3is"
+path="res://.godot/imported/closestPoint.glsl-8b78f05e6694b09555dce158b773b272.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/triangle/closestPoint.glsl"
+dest_files=["res://.godot/imported/closestPoint.glsl-8b78f05e6694b09555dce158b773b272.res"]
+
+[params]
+

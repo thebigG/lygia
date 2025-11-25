@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bg83ddulu7xq5"
+path="res://.godot/imported/sum.glsl-84e774c804536f2ed4d0b5782fd6db26.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/sum.glsl"
+dest_files=["res://.godot/imported/sum.glsl-84e774c804536f2ed4d0b5782fd6db26.res"]
+
+[params]
+

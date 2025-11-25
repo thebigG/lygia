@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dfma0e1cq3mdx"
+path="res://.godot/imported/screenSourceOver.glsl-20d173f08998672e9bc835b65afbda2e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/screenSourceOver.glsl"
+dest_files=["res://.godot/imported/screenSourceOver.glsl-20d173f08998672e9bc835b65afbda2e.res"]
+
+[params]
+

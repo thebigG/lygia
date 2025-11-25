@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dwio2k8dcqawl"
+path="res://.godot/imported/mmax.glsl-7de4224faa101d77ac84ce431bc5b4ad.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/mmax.glsl"
+dest_files=["res://.godot/imported/mmax.glsl-7de4224faa101d77ac84ce431bc5b4ad.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dy2h3kref03a6"
+path="res://.godot/imported/grain.glsl-684645d1c30cf71b76266bd2394b9d6d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/distort/grain.glsl"
+dest_files=["res://.godot/imported/grain.glsl-684645d1c30cf71b76266bd2394b9d6d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://boi48snnj7ocs"
+path="res://.godot/imported/importanceSampling.glsl-976713a13ceaa04f21bda02b2a42e251.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/specular/importanceSampling.glsl"
+dest_files=["res://.godot/imported/importanceSampling.glsl-976713a13ceaa04f21bda02b2a42e251.res"]
+
+[params]
+

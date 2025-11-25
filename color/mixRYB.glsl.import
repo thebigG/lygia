@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cvlvq4qys3jf"
+path="res://.godot/imported/mixRYB.glsl-4d7c304a32b422df57e25413828ca116.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/mixRYB.glsl"
+dest_files=["res://.godot/imported/mixRYB.glsl-4d7c304a32b422df57e25413828ca116.res"]
+
+[params]
+

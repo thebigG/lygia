@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://csrkqo7647gga"
+path="res://.godot/imported/fbm.glsl-4db7cc65a6476fad6cbf4d78d0f4b221.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/generative/fbm.glsl"
+dest_files=["res://.godot/imported/fbm.glsl-4db7cc65a6476fad6cbf4d78d0f4b221.res"]
+
+[params]
+

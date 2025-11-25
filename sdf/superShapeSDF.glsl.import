@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bqtcsn6h7ydf8"
+path="res://.godot/imported/superShapeSDF.glsl-5bb98456ee520740251aff28daeac280.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/superShapeSDF.glsl"
+dest_files=["res://.godot/imported/superShapeSDF.glsl-5bb98456ee520740251aff28daeac280.res"]
+
+[params]
+

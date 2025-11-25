@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://67iutgsn03fq"
+path="res://.godot/imported/oklab2rgb.glsl-2dc0a9852c9edfa61dcb2d1a503d81c5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/space/oklab2rgb.glsl"
+dest_files=["res://.godot/imported/oklab2rgb.glsl-2dc0a9852c9edfa61dcb2d1a503d81c5.res"]
+
+[params]
+

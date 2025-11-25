@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://catjtbak8ehv5"
+path="res://.godot/imported/fast.glsl-28ea43e8344c272530e83068b0253676.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/sharpen/fast.glsl"
+dest_files=["res://.godot/imported/fast.glsl-28ea43e8344c272530e83068b0253676.res"]
+
+[params]
+

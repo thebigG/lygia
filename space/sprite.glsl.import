@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cr44nepdy48mt"
+path="res://.godot/imported/sprite.glsl-070fc72eda8f4c600e839758e48edc9e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/sprite.glsl"
+dest_files=["res://.godot/imported/sprite.glsl-070fc72eda8f4c600e839758e48edc9e.res"]
+
+[params]
+

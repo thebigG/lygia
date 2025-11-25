@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://derr7qyxmqo5j"
+path="res://.godot/imported/bridge.glsl-0fa88c633467c02512d9f39613b4f1ef.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/draw/bridge.glsl"
+dest_files=["res://.godot/imported/bridge.glsl-0fa88c633467c02512d9f39613b4f1ef.res"]
+
+[params]
+

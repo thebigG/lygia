@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c4j10a6deq5d3"
+path="res://.godot/imported/darken.glsl-d2aaf224d8e46f0dfed6e7db14bac908.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/darken.glsl"
+dest_files=["res://.godot/imported/darken.glsl-d2aaf224d8e46f0dfed6e7db14bac908.res"]
+
+[params]
+

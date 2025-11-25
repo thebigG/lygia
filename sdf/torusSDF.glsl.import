@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bbm7ot6lrx2dp"
+path="res://.godot/imported/torusSDF.glsl-413a77fbc51c442498370ebe68389138.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/torusSDF.glsl"
+dest_files=["res://.godot/imported/torusSDF.glsl-413a77fbc51c442498370ebe68389138.res"]
+
+[params]
+

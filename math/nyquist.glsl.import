@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dtwdmeuvdjt2c"
+path="res://.godot/imported/nyquist.glsl-0af5fa25584de121701be58f84cd8e01.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/nyquist.glsl"
+dest_files=["res://.godot/imported/nyquist.glsl-0af5fa25584de121701be58f84cd8e01.res"]
+
+[params]
+

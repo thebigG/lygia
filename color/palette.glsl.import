@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dnllm1u1j23bp"
+path="res://.godot/imported/palette.glsl-d0afaf2a11db397afef06b2092830d34.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette.glsl"
+dest_files=["res://.godot/imported/palette.glsl-d0afaf2a11db397afef06b2092830d34.res"]
+
+[params]
+

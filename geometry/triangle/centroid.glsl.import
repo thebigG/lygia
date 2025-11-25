@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cw7iino5vjq6v"
+path="res://.godot/imported/centroid.glsl-cc2220817cf1b433a7eef77f0368eaad.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/triangle/centroid.glsl"
+dest_files=["res://.godot/imported/centroid.glsl-cc2220817cf1b433a7eef77f0368eaad.res"]
+
+[params]
+

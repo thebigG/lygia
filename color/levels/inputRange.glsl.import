@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cliusx45u4p8p"
+path="res://.godot/imported/inputRange.glsl-4e6c945d571246d74ac6dd2f388cc55c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/levels/inputRange.glsl"
+dest_files=["res://.godot/imported/inputRange.glsl-4e6c945d571246d74ac6dd2f388cc55c.res"]
+
+[params]
+

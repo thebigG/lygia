@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cfexvcy7kkl54"
+path="res://.godot/imported/gain.glsl-496e2766c1d4d8c4f780272f8c6a23c9.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/gain.glsl"
+dest_files=["res://.godot/imported/gain.glsl-496e2766c1d4d8c4f780272f8c6a23c9.res"]
+
+[params]
+

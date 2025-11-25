@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c32rc8pfgh5e"
+path="res://.godot/imported/beckmann.glsl-6a82b5da51014cb1bbdaa1299c2d3026.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/specular/beckmann.glsl"
+dest_files=["res://.godot/imported/beckmann.glsl-6a82b5da51014cb1bbdaa1299c2d3026.res"]
+
+[params]
+

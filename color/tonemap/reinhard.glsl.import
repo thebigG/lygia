@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dsrti3hp7ilau"
+path="res://.godot/imported/reinhard.glsl-ca723b69c2b198af8af463a6a003e28f.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/tonemap/reinhard.glsl"
+dest_files=["res://.godot/imported/reinhard.glsl-ca723b69c2b198af8af463a6a003e28f.res"]
+
+[params]
+

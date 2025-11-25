@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bywcxovj71yip"
+path="res://.godot/imported/sphericalHarmonics.glsl-bec377916394eff7096c98f27462d168.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/sphericalHarmonics.glsl"
+dest_files=["res://.godot/imported/sphericalHarmonics.glsl-bec377916394eff7096c98f27462d168.res"]
+
+[params]
+

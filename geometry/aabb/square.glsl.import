@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://burkha8vs0fb7"
+path="res://.godot/imported/square.glsl-162f47e1cfdd7035457b1e511aaef0cb.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/aabb/square.glsl"
+dest_files=["res://.godot/imported/square.glsl-162f47e1cfdd7035457b1e511aaef0cb.res"]
+
+[params]
+

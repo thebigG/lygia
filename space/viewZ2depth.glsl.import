@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://csmv1xtlplo75"
+path="res://.godot/imported/viewZ2depth.glsl-628f03810491d2eda4cf3f079c430f66.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/viewZ2depth.glsl"
+dest_files=["res://.godot/imported/viewZ2depth.glsl-628f03810491d2eda4cf3f079c430f66.res"]
+
+[params]
+

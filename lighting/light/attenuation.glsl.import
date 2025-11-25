@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cul7ef0yidlf4"
+path="res://.godot/imported/attenuation.glsl-7388a0dacef2b15fdef8c0a002acd1cf.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/light/attenuation.glsl"
+dest_files=["res://.godot/imported/attenuation.glsl-7388a0dacef2b15fdef8c0a002acd1cf.res"]
+
+[params]
+

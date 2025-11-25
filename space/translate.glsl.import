@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b4egnc7v6u3eu"
+path="res://.godot/imported/translate.glsl-76857143de71ce8eb320b52cd32fcbe6.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/translate.glsl"
+dest_files=["res://.godot/imported/translate.glsl-76857143de71ce8eb320b52cd32fcbe6.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bd3xrisbss3x3"
+path="res://.godot/imported/nearest.glsl-c3df728b9c15ca3fab21b561f1b26512.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/nearest.glsl"
+dest_files=["res://.godot/imported/nearest.glsl-c3df728b9c15ca3fab21b561f1b26512.res"]
+
+[params]
+

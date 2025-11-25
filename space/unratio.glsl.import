@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://mxo2lyv7w0oj"
+path="res://.godot/imported/unratio.glsl-d998878943dd06dafb53dc0d7062a337.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/unratio.glsl"
+dest_files=["res://.godot/imported/unratio.glsl-d998878943dd06dafb53dc0d7062a337.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://be0pqs1ehgx55"
+path="res://.godot/imported/scale2d.glsl-b633133fb95951463943395bcb941a4e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/scale2d.glsl"
+dest_files=["res://.godot/imported/scale2d.glsl-b633133fb95951463943395bcb941a4e.res"]
+
+[params]
+

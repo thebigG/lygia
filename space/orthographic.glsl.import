@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://djadlhjl8ouo8"
+path="res://.godot/imported/orthographic.glsl-907ec69fbe947e9054d32ac149372343.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/orthographic.glsl"
+dest_files=["res://.godot/imported/orthographic.glsl-907ec69fbe947e9054d32ac149372343.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://coh4h6aaa3hqo"
+path="res://.godot/imported/linearBurn.glsl-06623b84fd5097f9934b61cf1a5f03e9.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/linearBurn.glsl"
+dest_files=["res://.godot/imported/linearBurn.glsl-06623b84fd5097f9934b61cf1a5f03e9.res"]
+
+[params]
+

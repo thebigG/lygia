@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dnfgk071x3ncj"
+path="res://.godot/imported/1D_fast5.glsl-ba9f88c0e231e2ee13f97a02af93c0aa.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/gaussianBlur/1D_fast5.glsl"
+dest_files=["res://.godot/imported/1D_fast5.glsl-ba9f88c0e231e2ee13f97a02af93c0aa.res"]
+
+[params]
+

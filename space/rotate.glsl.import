@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d2oywa611t00t"
+path="res://.godot/imported/rotate.glsl-2512eccd8f0cab3f1bf881d9ac787dcc.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/rotate.glsl"
+dest_files=["res://.godot/imported/rotate.glsl-2512eccd8f0cab3f1bf881d9ac787dcc.res"]
+
+[params]
+

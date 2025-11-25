@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://i2qxmvo4x4u8"
+path="res://.godot/imported/envMap.glsl-3524c63a7f38b4fb2d8723a2929d75ed.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/envMap.glsl"
+dest_files=["res://.godot/imported/envMap.glsl-3524c63a7f38b4fb2d8723a2929d75ed.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cepqqatitr7fv"
+path="res://.godot/imported/distanceSq.glsl-eb9fbeca33179ff946328e1de2cf0523.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/triangle/distanceSq.glsl"
+dest_files=["res://.godot/imported/distanceSq.glsl-eb9fbeca33179ff946328e1de2cf0523.res"]
+
+[params]
+

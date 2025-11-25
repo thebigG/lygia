@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dkjekqfyonra4"
+path="res://.godot/imported/flow.glsl-a0d2f686ee1d6d93791cb6e800967844.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/flow.glsl"
+dest_files=["res://.godot/imported/flow.glsl-a0d2f686ee1d6d93791cb6e800967844.res"]
+
+[params]
+

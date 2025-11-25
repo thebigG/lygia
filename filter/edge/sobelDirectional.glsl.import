@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cloy8rbqe5l8u"
+path="res://.godot/imported/sobelDirectional.glsl-8fd5b987a67944f02c4a53d0eb5ecc98.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/edge/sobelDirectional.glsl"
+dest_files=["res://.godot/imported/sobelDirectional.glsl-8fd5b987a67944f02c4a53d0eb5ecc98.res"]
+
+[params]
+

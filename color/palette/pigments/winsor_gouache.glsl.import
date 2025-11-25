@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cdrc24ne6h2u4"
+path="res://.godot/imported/winsor_gouache.glsl-653aee2536586d2203df0655d6250184.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/pigments/winsor_gouache.glsl"
+dest_files=["res://.godot/imported/winsor_gouache.glsl-653aee2536586d2203df0655d6250184.res"]
+
+[params]
+

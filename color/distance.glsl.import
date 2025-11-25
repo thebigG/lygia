@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c8r2s3o4c03t3"
+path="res://.godot/imported/distance.glsl-92b4291e7308bf5ae43e0f646011bc93.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/distance.glsl"
+dest_files=["res://.godot/imported/distance.glsl-92b4291e7308bf5ae43e0f646011bc93.res"]
+
+[params]
+

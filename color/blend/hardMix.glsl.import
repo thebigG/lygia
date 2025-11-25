@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bg7tkkakrjvuu"
+path="res://.godot/imported/hardMix.glsl-3ac092d03493d800754da70f2d75d1bc.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/hardMix.glsl"
+dest_files=["res://.godot/imported/hardMix.glsl-3ac092d03493d800754da70f2d75d1bc.res"]
+
+[params]
+

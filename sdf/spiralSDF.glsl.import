@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b6blq5cqv4pxk"
+path="res://.godot/imported/spiralSDF.glsl-0b8ac5bba350315030630d8569d99254.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/spiralSDF.glsl"
+dest_files=["res://.godot/imported/spiralSDF.glsl-0b8ac5bba350315030630d8569d99254.res"]
+
+[params]
+

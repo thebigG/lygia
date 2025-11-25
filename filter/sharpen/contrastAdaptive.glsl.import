@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bkoya8agscahx"
+path="res://.godot/imported/contrastAdaptive.glsl-2a818ec0788181c5b709f2dfc0f944a5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/sharpen/contrastAdaptive.glsl"
+dest_files=["res://.godot/imported/contrastAdaptive.glsl-2a818ec0788181c5b709f2dfc0f944a5.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c4rbrnkkon1j5"
+path="res://.godot/imported/volumetricLightScattering.glsl-85a114aff8d9354e1acc0c037b1abf84.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/volumetricLightScattering.glsl"
+dest_files=["res://.godot/imported/volumetricLightScattering.glsl-85a114aff8d9354e1acc0c037b1abf84.res"]
+
+[params]
+

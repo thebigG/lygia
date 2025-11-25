@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://o1al5kyogtlr"
+path="res://.godot/imported/noised.glsl-957abb046361c7da59dcc7854a7ea14b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/generative/noised.glsl"
+dest_files=["res://.godot/imported/noised.glsl-957abb046361c7da59dcc7854a7ea14b.res"]
+
+[params]
+

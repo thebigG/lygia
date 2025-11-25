@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dmwgr0prsngpl"
+path="res://.godot/imported/center.glsl-b437fff3153f8020af2fe484b01e7aa7.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/center.glsl"
+dest_files=["res://.godot/imported/center.glsl-b437fff3153f8020af2fe484b01e7aa7.res"]
+
+[params]
+

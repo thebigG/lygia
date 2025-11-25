@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cv1kx8fsfxv3o"
+path="res://.godot/imported/noiseBlur.glsl-613116ca33741b446d636028ff24623e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/noiseBlur.glsl"
+dest_files=["res://.godot/imported/noiseBlur.glsl-613116ca33741b446d636028ff24623e.res"]
+
+[params]
+

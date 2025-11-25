@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://hbxc41856e33"
+path="res://.godot/imported/linearizeDepth.glsl-6d358e17742464d8d920f8facad6c75e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/linearizeDepth.glsl"
+dest_files=["res://.godot/imported/linearizeDepth.glsl-6d358e17742464d8d920f8facad6c75e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b41pmmpdxu7jx"
+path="res://.godot/imported/bounceInOut.glsl-6a88d9020ad7f238bd9e7c5f25c85926.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/bounceInOut.glsl"
+dest_files=["res://.godot/imported/bounceInOut.glsl-6a88d9020ad7f238bd9e7c5f25c85926.res"]
+
+[params]
+

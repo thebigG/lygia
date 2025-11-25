@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://baw3mjyy3cto5"
+path="res://.godot/imported/winsor_acrylic.glsl-c44c5dae377e007319932aa7920779cf.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/pigments/winsor_acrylic.glsl"
+dest_files=["res://.godot/imported/winsor_acrylic.glsl-c44c5dae377e007319932aa7920779cf.res"]
+
+[params]
+

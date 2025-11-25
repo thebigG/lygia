@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bib3d23yfg6o0"
+path="res://.godot/imported/sineOut.glsl-bc1c7a53cc42d3a4e89102cbb5b07f45.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/sineOut.glsl"
+dest_files=["res://.godot/imported/sineOut.glsl-bc1c7a53cc42d3a4e89102cbb5b07f45.res"]
+
+[params]
+

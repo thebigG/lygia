@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://5g0sj4045lts"
+path="res://.godot/imported/jumpFlood.glsl-e38bbc3854a9e1291919424b5d4f4bad.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/morphological/jumpFlood.glsl"
+dest_files=["res://.godot/imported/jumpFlood.glsl-e38bbc3854a9e1291919424b5d4f4bad.res"]
+
+[params]
+

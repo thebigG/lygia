@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dmxf0houhoinv"
+path="res://.godot/imported/toMat3.glsl-d8169c1bb109b3a3af55a5f7ad77c09c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/toMat3.glsl"
+dest_files=["res://.godot/imported/toMat3.glsl-d8169c1bb109b3a3af55a5f7ad77c09c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://by1eiq2diyv5j"
+path="res://.godot/imported/aspect.glsl-ddde98415166082f2e238c8e373ff302.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/aspect.glsl"
+dest_files=["res://.godot/imported/aspect.glsl-ddde98415166082f2e238c8e373ff302.res"]
+
+[params]
+

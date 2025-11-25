@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bp56ag2mtsebl"
+path="res://.godot/imported/atmosphere.glsl-12a56c314034f57a2b6cffb430310440.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/atmosphere.glsl"
+dest_files=["res://.godot/imported/atmosphere.glsl-12a56c314034f57a2b6cffb430310440.res"]
+
+[params]
+

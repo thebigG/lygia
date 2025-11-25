@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://coro61hs7r7yj"
+path="res://.godot/imported/centroid.glsl-aaf3b03d2df21f71c6dc7ab66251c1ce.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/aabb/centroid.glsl"
+dest_files=["res://.godot/imported/centroid.glsl-aaf3b03d2df21f71c6dc7ab66251c1ce.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://7obgxnmt2nx7"
+path="res://.godot/imported/metallic.glsl-d7ff18d26a66392ce80ffe4ec28cddec.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/material/metallic.glsl"
+dest_files=["res://.godot/imported/metallic.glsl-d7ff18d26a66392ce80ffe4ec28cddec.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://fsompnqadiwi"
+path="res://.godot/imported/YPbPr2rgb.glsl-93eabc9d4fc49ee46e25bd38a43cc740.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/space/YPbPr2rgb.glsl"
+dest_files=["res://.godot/imported/YPbPr2rgb.glsl-93eabc9d4fc49ee46e25bd38a43cc740.res"]
+
+[params]
+

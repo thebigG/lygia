@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b004ld2cioumi"
+path="res://.godot/imported/glass.glsl-bd4ec4de9885ca398e214bf50e96e518.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/raymarch/glass.glsl"
+dest_files=["res://.godot/imported/glass.glsl-bd4ec4de9885ca398e214bf50e96e518.res"]
+
+[params]
+

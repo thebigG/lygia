@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bd527d6o40thw"
+path="res://.godot/imported/brightnessContrast.glsl-9a49a760ddf979540946c21cd988d63f.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/brightnessContrast.glsl"
+dest_files=["res://.godot/imported/brightnessContrast.glsl-9a49a760ddf979540946c21cd988d63f.res"]
+
+[params]
+

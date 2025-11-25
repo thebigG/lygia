@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cklpvkvdn2axu"
+path="res://.godot/imported/henyeyGreenstein.glsl-71eb4d18f108cb824ede6e9f04f5c8fe.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/henyeyGreenstein.glsl"
+dest_files=["res://.godot/imported/henyeyGreenstein.glsl-71eb4d18f108cb824ede6e9f04f5c8fe.res"]
+
+[params]
+

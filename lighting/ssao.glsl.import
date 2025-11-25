@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://be4daoridalvf"
+path="res://.godot/imported/ssao.glsl-5298fc53280f1b3d7fb71ec6d88ace9b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/ssao.glsl"
+dest_files=["res://.godot/imported/ssao.glsl-5298fc53280f1b3d7fb71ec6d88ace9b.res"]
+
+[params]
+

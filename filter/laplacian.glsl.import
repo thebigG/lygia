@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b0ek6gma8ae44"
+path="res://.godot/imported/laplacian.glsl-423ea67ac8273075cf66c60e82a77b1e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/laplacian.glsl"
+dest_files=["res://.godot/imported/laplacian.glsl-423ea67ac8273075cf66c60e82a77b1e.res"]
+
+[params]
+

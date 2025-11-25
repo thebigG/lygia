@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cpon2rxurn8p4"
+path="res://.godot/imported/tri.glsl-efe7e9a21d0edf7300989931fd8b36ae.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/draw/tri.glsl"
+dest_files=["res://.godot/imported/tri.glsl-efe7e9a21d0edf7300989931fd8b36ae.res"]
+
+[params]
+

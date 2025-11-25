@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cchjby1ak0uj0"
+path="res://.godot/imported/saturationMatrix.glsl-3d3b698d6bde8161604364ea4fe1357c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/saturationMatrix.glsl"
+dest_files=["res://.godot/imported/saturationMatrix.glsl-3d3b698d6bde8161604364ea4fe1357c.res"]
+
+[params]
+

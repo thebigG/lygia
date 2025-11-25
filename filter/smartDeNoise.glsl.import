@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://7g1woqaof0ws"
+path="res://.godot/imported/smartDeNoise.glsl-41cdacbabc2e3c1cc69ed0b3ddb3765a.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/smartDeNoise.glsl"
+dest_files=["res://.godot/imported/smartDeNoise.glsl-41cdacbabc2e3c1cc69ed0b3ddb3765a.res"]
+
+[params]
+

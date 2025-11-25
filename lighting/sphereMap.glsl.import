@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://chmuibs7w4iif"
+path="res://.godot/imported/sphereMap.glsl-6272acfaf736d63175e7b75abf102ee5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/sphereMap.glsl"
+dest_files=["res://.godot/imported/sphereMap.glsl-6272acfaf736d63175e7b75abf102ee5.res"]
+
+[params]
+

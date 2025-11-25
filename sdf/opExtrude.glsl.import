@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://y44nh6h3spcv"
+path="res://.godot/imported/opExtrude.glsl-f54817f885ba8f80e8c6625b76cf9c2a.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/opExtrude.glsl"
+dest_files=["res://.godot/imported/opExtrude.glsl-f54817f885ba8f80e8c6625b76cf9c2a.res"]
+
+[params]
+

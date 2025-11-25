@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://co227wjjny7nt"
+path="res://.godot/imported/starSDF.glsl-da4eca0dac0afcbabc06086335bce708.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/starSDF.glsl"
+dest_files=["res://.godot/imported/starSDF.glsl-da4eca0dac0afcbabc06086335bce708.res"]
+
+[params]
+

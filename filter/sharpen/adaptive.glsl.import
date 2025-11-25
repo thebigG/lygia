@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://fllq0sorjs6g"
+path="res://.godot/imported/adaptive.glsl-7f2ff7c3a8c4855d54e83ffad7179196.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/sharpen/adaptive.glsl"
+dest_files=["res://.godot/imported/adaptive.glsl-7f2ff7c3a8c4855d54e83ffad7179196.res"]
+
+[params]
+

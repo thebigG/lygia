@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bm80fopwvspu7"
+path="res://.godot/imported/coneSDF.glsl-aaca01bdc036fa4fc17ce079411e8637.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/coneSDF.glsl"
+dest_files=["res://.godot/imported/coneSDF.glsl-aaca01bdc036fa4fc17ce079411e8637.res"]
+
+[params]
+

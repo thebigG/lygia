@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://sfj6lv0kgsl4"
+path="res://.godot/imported/gamma2linear.glsl-14173e3c0ed01abbdcf683c3631c3b75.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/space/gamma2linear.glsl"
+dest_files=["res://.godot/imported/gamma2linear.glsl-14173e3c0ed01abbdcf683c3631c3b75.res"]
+
+[params]
+

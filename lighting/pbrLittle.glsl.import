@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c2wj8kadj4s1e"
+path="res://.godot/imported/pbrLittle.glsl-a010c7e2ca2e09ef46581da2d9d919ac.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/pbrLittle.glsl"
+dest_files=["res://.godot/imported/pbrLittle.glsl-a010c7e2ca2e09ef46581da2d9d919ac.res"]
+
+[params]
+

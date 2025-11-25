@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cp2x0ebdrp7qk"
+path="res://.godot/imported/digits.glsl-68f0f0797e818a96c7e0ce491324a004.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/draw/digits.glsl"
+dest_files=["res://.godot/imported/digits.glsl-68f0f0797e818a96c7e0ce491324a004.res"]
+
+[params]
+

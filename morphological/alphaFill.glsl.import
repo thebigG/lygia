@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dgysn1gkyx7vc"
+path="res://.godot/imported/alphaFill.glsl-72763952f16eddc62d062393d33e3ccc.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/morphological/alphaFill.glsl"
+dest_files=["res://.godot/imported/alphaFill.glsl-72763952f16eddc62d062393d33e3ccc.res"]
+
+[params]
+

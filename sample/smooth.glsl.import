@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c4be2xc8yneth"
+path="res://.godot/imported/smooth.glsl-b5079739934dd6dfb3855abf64c56632.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/smooth.glsl"
+dest_files=["res://.godot/imported/smooth.glsl-b5079739934dd6dfb3855abf64c56632.res"]
+
+[params]
+

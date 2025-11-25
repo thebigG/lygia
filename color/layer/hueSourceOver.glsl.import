@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://sfa3uu5pp5q2"
+path="res://.godot/imported/hueSourceOver.glsl-94e485c943bbe43ea45b2567cf2aa881.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/hueSourceOver.glsl"
+dest_files=["res://.godot/imported/hueSourceOver.glsl-94e485c943bbe43ea45b2567cf2aa881.res"]
+
+[params]
+

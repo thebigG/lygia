@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://chdnijy07j3oo"
+path="res://.godot/imported/polySDF.glsl-8319a5a20b9fc20c44dcc6c971fcaa89.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/polySDF.glsl"
+dest_files=["res://.godot/imported/polySDF.glsl-8319a5a20b9fc20c44dcc6c971fcaa89.res"]
+
+[params]
+

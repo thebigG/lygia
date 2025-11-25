@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://f0qs0y86b47w"
+path="res://.godot/imported/elasticInOut.glsl-a48e08b9125118bde40fdee21c13e868.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/elasticInOut.glsl"
+dest_files=["res://.godot/imported/elasticInOut.glsl-a48e08b9125118bde40fdee21c13e868.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dh5mmg2xd4kj4"
+path="res://.godot/imported/liquitex_acrylic.glsl-41020b8a5ae15839663275a4fb8c05e4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/pigments/liquitex_acrylic.glsl"
+dest_files=["res://.godot/imported/liquitex_acrylic.glsl-41020b8a5ae15839663275a4fb8c05e4.res"]
+
+[params]
+

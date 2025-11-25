@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b3ooiqcoiam17"
+path="res://.godot/imported/axis.glsl-8c83c9f191f45e43bc682da7d4244997.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/draw/axis.glsl"
+dest_files=["res://.godot/imported/axis.glsl-8c83c9f191f45e43bc682da7d4244997.res"]
+
+[params]
+

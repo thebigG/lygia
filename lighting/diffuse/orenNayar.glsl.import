@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://0gifej1g37bn"
+path="res://.godot/imported/orenNayar.glsl-3bc30103f6c90b07787b9f341d193723.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/diffuse/orenNayar.glsl"
+dest_files=["res://.godot/imported/orenNayar.glsl-3bc30103f6c90b07787b9f341d193723.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ci74e8b3xewbe"
+path="res://.godot/imported/voronoi.glsl-86685f32fe8a73728f88ef0cb2dc96ce.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/generative/voronoi.glsl"
+dest_files=["res://.godot/imported/voronoi.glsl-86685f32fe8a73728f88ef0cb2dc96ce.res"]
+
+[params]
+

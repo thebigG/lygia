@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://wvfpyx8rjr70"
+path="res://.godot/imported/crossSDF.glsl-7945e3536180b3d5ef5aa2469adb4f73.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/crossSDF.glsl"
+dest_files=["res://.godot/imported/crossSDF.glsl-7945e3536180b3d5ef5aa2469adb4f73.res"]
+
+[params]
+

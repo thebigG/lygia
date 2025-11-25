@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bf7orqa2plfdf"
+path="res://.godot/imported/vividLightSourceOver.glsl-b5b29707cee88e399c776e13b91c7c85.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/vividLightSourceOver.glsl"
+dest_files=["res://.godot/imported/vividLightSourceOver.glsl-b5b29707cee88e399c776e13b91c7c85.res"]
+
+[params]
+

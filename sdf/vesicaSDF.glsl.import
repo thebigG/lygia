@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://st3005mtyvs5"
+path="res://.godot/imported/vesicaSDF.glsl-149b7326f9f80b312beac0fddf90b88c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/vesicaSDF.glsl"
+dest_files=["res://.godot/imported/vesicaSDF.glsl-149b7326f9f80b312beac0fddf90b88c.res"]
+
+[params]
+

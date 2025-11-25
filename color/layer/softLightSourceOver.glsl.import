@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cnfpyk3uxwpks"
+path="res://.godot/imported/softLightSourceOver.glsl-1224eba1eec31a0f8dd4e2aff3576966.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/softLightSourceOver.glsl"
+dest_files=["res://.godot/imported/softLightSourceOver.glsl-1224eba1eec31a0f8dd4e2aff3576966.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b0lkpihfbwgje"
+path="res://.godot/imported/vibrance.glsl-ace79ec3b91a3e2ddffd630465df3a87.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/vibrance.glsl"
+dest_files=["res://.godot/imported/vibrance.glsl-ace79ec3b91a3e2ddffd630465df3a87.res"]
+
+[params]
+

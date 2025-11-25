@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dsk05hqheau51"
+path="res://.godot/imported/fisheye2xyz.glsl-441515a481d977eb2e199a8df79b832b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/fisheye2xyz.glsl"
+dest_files=["res://.godot/imported/fisheye2xyz.glsl-441515a481d977eb2e199a8df79b832b.res"]
+
+[params]
+

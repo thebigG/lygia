@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://tb2qat18kc4e"
+path="res://.godot/imported/frac.glsl-1a5bd3af347fda413450d4d2a6cef373.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/frac.glsl"
+dest_files=["res://.godot/imported/frac.glsl-1a5bd3af347fda413450d4d2a6cef373.res"]
+
+[params]
+

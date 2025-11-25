@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bdi3msekars0r"
+path="res://.godot/imported/rayleigh.glsl-8025ce0f1788a5dbca24fb1f0917d3b3.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/rayleigh.glsl"
+dest_files=["res://.godot/imported/rayleigh.glsl-8025ce0f1788a5dbca24fb1f0917d3b3.res"]
+
+[params]
+

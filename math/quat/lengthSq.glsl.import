@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bidvn550quonj"
+path="res://.godot/imported/lengthSq.glsl-36aaf4b1f0653557d9a9fc26bc368d0e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/quat/lengthSq.glsl"
+dest_files=["res://.godot/imported/lengthSq.glsl-36aaf4b1f0653557d9a9fc26bc368d0e.res"]
+
+[params]
+

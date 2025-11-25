@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dog56y5nhyim1"
+path="res://.godot/imported/quarticInOut.glsl-67a0d018e04e302f017e9aa03f489a30.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/quarticInOut.glsl"
+dest_files=["res://.godot/imported/quarticInOut.glsl-67a0d018e04e302f017e9aa03f489a30.res"]
+
+[params]
+

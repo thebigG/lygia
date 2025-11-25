@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cwpcn41j3ny5b"
+path="res://.godot/imported/quilt.glsl-9b86b38b89221c564a2e1892af72a2c8.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/quilt.glsl"
+dest_files=["res://.godot/imported/quilt.glsl-9b86b38b89221c564a2e1892af72a2c8.res"]
+
+[params]
+

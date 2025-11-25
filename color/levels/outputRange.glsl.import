@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cabmuckwshg3v"
+path="res://.godot/imported/outputRange.glsl-cef700b09c0c005125091aebb7108666.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/levels/outputRange.glsl"
+dest_files=["res://.godot/imported/outputRange.glsl-cef700b09c0c005125091aebb7108666.res"]
+
+[params]
+

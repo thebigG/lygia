@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dsu78m4l25a0e"
+path="res://.godot/imported/colorBurnSourceOver.glsl-8f36f25ad7a760e7977f5818e34221cf.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/colorBurnSourceOver.glsl"
+dest_files=["res://.godot/imported/colorBurnSourceOver.glsl-8f36f25ad7a760e7977f5818e34221cf.res"]
+
+[params]
+

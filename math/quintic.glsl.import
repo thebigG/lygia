@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bn4bklw75kd6h"
+path="res://.godot/imported/quintic.glsl-71eb28115790fe8fe5a1294c6fb4d5c4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/quintic.glsl"
+dest_files=["res://.godot/imported/quintic.glsl-71eb28115790fe8fe5a1294c6fb4d5c4.res"]
+
+[params]
+

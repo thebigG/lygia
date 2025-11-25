@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dx816824m3c80"
+path="res://.godot/imported/mirrorTile.glsl-56affe11b600a4bed1fa3b7aa0932700.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/mirrorTile.glsl"
+dest_files=["res://.godot/imported/mirrorTile.glsl-56affe11b600a4bed1fa3b7aa0932700.res"]
+
+[params]
+

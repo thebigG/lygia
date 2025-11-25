@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c0ny7js7vb61u"
+path="res://.godot/imported/screen.glsl-ac695b84e7f8db1090dfeaa031e835fc.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/screen.glsl"
+dest_files=["res://.godot/imported/screen.glsl-ac695b84e7f8db1090dfeaa031e835fc.res"]
+
+[params]
+

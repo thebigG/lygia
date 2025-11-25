@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b8oava3pnd705"
+path="res://.godot/imported/3DSdf.glsl-284e0c5a33e3c4f8946d3d07e69ae613.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/3DSdf.glsl"
+dest_files=["res://.godot/imported/3DSdf.glsl-284e0c5a33e3c4f8946d3d07e69ae613.res"]
+
+[params]
+

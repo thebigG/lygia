@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://1bh6sllsqno4"
+path="res://.godot/imported/fibonacciBokeh.glsl-c6405c98b9603938b97bbad3bdb4ac53.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/fibonacciBokeh.glsl"
+dest_files=["res://.godot/imported/fibonacciBokeh.glsl-c6405c98b9603938b97bbad3bdb4ac53.res"]
+
+[params]
+

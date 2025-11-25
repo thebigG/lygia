@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bm4inujqdyjkv"
+path="res://.godot/imported/linearOut.glsl-32c97d0456eacc88020ef3999c295758.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/linearOut.glsl"
+dest_files=["res://.godot/imported/linearOut.glsl-32c97d0456eacc88020ef3999c295758.res"]
+
+[params]
+

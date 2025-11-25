@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cvt8k2wwgrt5u"
+path="res://.godot/imported/rgb2xyz.glsl-40bcca739526682b94bed50509f6f975.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/space/rgb2xyz.glsl"
+dest_files=["res://.godot/imported/rgb2xyz.glsl-40bcca739526682b94bed50509f6f975.res"]
+
+[params]
+

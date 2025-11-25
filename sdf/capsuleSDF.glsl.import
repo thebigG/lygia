@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b1vp2rv05nxra"
+path="res://.godot/imported/capsuleSDF.glsl-9a940f6608692ab98e75cb67478568be.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/capsuleSDF.glsl"
+dest_files=["res://.godot/imported/capsuleSDF.glsl-9a940f6608692ab98e75cb67478568be.res"]
+
+[params]
+

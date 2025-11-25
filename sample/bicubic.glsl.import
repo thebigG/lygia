@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bdrubnxbal7w1"
+path="res://.godot/imported/bicubic.glsl-96d59d5fe9366e89841a7293d2bf12ae.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/bicubic.glsl"
+dest_files=["res://.godot/imported/bicubic.glsl-96d59d5fe9366e89841a7293d2bf12ae.res"]
+
+[params]
+

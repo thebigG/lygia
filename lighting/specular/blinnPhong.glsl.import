@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c5roilh74ey1a"
+path="res://.godot/imported/blinnPhong.glsl-ad9d3f2588c928da7efc2306e13deecd.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/specular/blinnPhong.glsl"
+dest_files=["res://.godot/imported/blinnPhong.glsl-ad9d3f2588c928da7efc2306e13deecd.res"]
+
+[params]
+

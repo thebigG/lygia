@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cck73bckgi25k"
+path="res://.godot/imported/vlachos.glsl-326a706ca348e4e82a0bb5ca732ec405.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/dither/vlachos.glsl"
+dest_files=["res://.godot/imported/vlachos.glsl-326a706ca348e4e82a0bb5ca732ec405.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://40kmjqjqnufa"
+path="res://.godot/imported/invCubic.glsl-652442d495e96fbf7c362eab60540f39.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/invCubic.glsl"
+dest_files=["res://.godot/imported/invCubic.glsl-652442d495e96fbf7c362eab60540f39.res"]
+
+[params]
+

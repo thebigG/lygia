@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bmlxpll4x57es"
+path="res://.godot/imported/luminositySourceOver.glsl-56ff770f00bf3482cc05f19cb7fac4d5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/luminositySourceOver.glsl"
+dest_files=["res://.godot/imported/luminositySourceOver.glsl-56ff770f00bf3482cc05f19cb7fac4d5.res"]
+
+[params]
+

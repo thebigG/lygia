@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bfbjrd57vg7ux"
+path="res://.godot/imported/untile.glsl-8067ae4b3080e5dd1d00f19440cf4cfe.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/untile.glsl"
+dest_files=["res://.godot/imported/untile.glsl-8067ae4b3080e5dd1d00f19440cf4cfe.res"]
+
+[params]
+

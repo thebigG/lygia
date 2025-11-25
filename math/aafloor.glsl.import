@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://doxhv3br446vh"
+path="res://.godot/imported/aafloor.glsl-31088dcd7e1bb827fe8727d326849149.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/aafloor.glsl"
+dest_files=["res://.godot/imported/aafloor.glsl-31088dcd7e1bb827fe8727d326849149.res"]
+
+[params]
+

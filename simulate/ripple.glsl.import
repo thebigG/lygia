@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dtubfc8ci0arg"
+path="res://.godot/imported/ripple.glsl-aac31f279f6c01bc56b30a909ac79f90.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/simulate/ripple.glsl"
+dest_files=["res://.godot/imported/ripple.glsl-aac31f279f6c01bc56b30a909ac79f90.res"]
+
+[params]
+

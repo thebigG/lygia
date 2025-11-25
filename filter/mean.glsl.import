@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d4g3mlw8v60c1"
+path="res://.godot/imported/mean.glsl-981e96539d7a94824fd952eb315ea7f3.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/mean.glsl"
+dest_files=["res://.godot/imported/mean.glsl-981e96539d7a94824fd952eb315ea7f3.res"]
+
+[params]
+

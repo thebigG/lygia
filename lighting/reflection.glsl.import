@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://hy0abx1baojn"
+path="res://.godot/imported/reflection.glsl-741786c6ffa1494ae57d32793e0cd872.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/reflection.glsl"
+dest_files=["res://.godot/imported/reflection.glsl-741786c6ffa1494ae57d32793e0cd872.res"]
+
+[params]
+

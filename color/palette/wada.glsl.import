@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://diwoivodllfeq"
+path="res://.godot/imported/wada.glsl-7b22455f9ea4dce032d305df5104c3ef.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/wada.glsl"
+dest_files=["res://.godot/imported/wada.glsl-7b22455f9ea4dce032d305df5104c3ef.res"]
+
+[params]
+

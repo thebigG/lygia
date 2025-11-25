@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bprwyh2onynfh"
+path="res://.godot/imported/quadratic.glsl-2f96b9af3d2d05eb786879ece8968032.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/quadratic.glsl"
+dest_files=["res://.godot/imported/quadratic.glsl-2f96b9af3d2d05eb786879ece8968032.res"]
+
+[params]
+

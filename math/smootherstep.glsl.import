@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b8tqb6hwgl05l"
+path="res://.godot/imported/smootherstep.glsl-85bcd43a1f6f639929734656d401d6db.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/smootherstep.glsl"
+dest_files=["res://.godot/imported/smootherstep.glsl-85bcd43a1f6f639929734656d401d6db.res"]
+
+[params]
+

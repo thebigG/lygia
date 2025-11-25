@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ca7ginbpk3ewm"
+path="res://.godot/imported/circularIn.glsl-c79204a0c941a3b18bb7756ce44fd91e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/circularIn.glsl"
+dest_files=["res://.godot/imported/circularIn.glsl-c79204a0c941a3b18bb7756ce44fd91e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://co8xum77d0f56"
+path="res://.godot/imported/radialBlur.glsl-5aa3d033cd89873e0341f57e56b1d500.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/radialBlur.glsl"
+dest_files=["res://.godot/imported/radialBlur.glsl-5aa3d033cd89873e0341f57e56b1d500.res"]
+
+[params]
+

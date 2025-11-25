@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cjl4twx2dqgoq"
+path="res://.godot/imported/median.glsl-fa952191377c44aeb2ab6d656ba99383.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/median.glsl"
+dest_files=["res://.godot/imported/median.glsl-fa952191377c44aeb2ab6d656ba99383.res"]
+
+[params]
+

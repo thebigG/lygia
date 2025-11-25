@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://q1w7dwhd4q3g"
+path="res://.godot/imported/gaussian.glsl-bb298d79960f3fd1925bcbaaf68cd59b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/gaussian.glsl"
+dest_files=["res://.godot/imported/gaussian.glsl-bb298d79960f3fd1925bcbaaf68cd59b.res"]
+
+[params]
+

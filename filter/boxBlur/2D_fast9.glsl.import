@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cvokmqtpqq87i"
+path="res://.godot/imported/2D_fast9.glsl-c2f3d9fd5d575e2fa5a421b98e3792b3.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/boxBlur/2D_fast9.glsl"
+dest_files=["res://.godot/imported/2D_fast9.glsl-c2f3d9fd5d575e2fa5a421b98e3792b3.res"]
+
+[params]
+

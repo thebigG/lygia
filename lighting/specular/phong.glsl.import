@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b8rni70igkvn8"
+path="res://.godot/imported/phong.glsl-78a8a2e6b4a323de1dd6a7cf7d7f9c2d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/specular/phong.glsl"
+dest_files=["res://.godot/imported/phong.glsl-78a8a2e6b4a323de1dd6a7cf7d7f9c2d.res"]
+
+[params]
+

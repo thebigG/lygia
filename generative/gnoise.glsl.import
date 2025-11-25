@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b7xikr26g3hrb"
+path="res://.godot/imported/gnoise.glsl-8b790bbca388ccca4d31baba7f541ef9.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/generative/gnoise.glsl"
+dest_files=["res://.godot/imported/gnoise.glsl-8b790bbca388ccca4d31baba7f541ef9.res"]
+
+[params]
+

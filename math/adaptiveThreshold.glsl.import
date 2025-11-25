@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cdnpnvclndpnu"
+path="res://.godot/imported/adaptiveThreshold.glsl-ed3926325b5cd7426a8755a59d039a4b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/adaptiveThreshold.glsl"
+dest_files=["res://.godot/imported/adaptiveThreshold.glsl-ed3926325b5cd7426a8755a59d039a4b.res"]
+
+[params]
+

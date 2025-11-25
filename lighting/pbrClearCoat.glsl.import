@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dxv4srpod2e2a"
+path="res://.godot/imported/pbrClearCoat.glsl-153480fb250eb145b7415f790cb5e85c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/pbrClearCoat.glsl"
+dest_files=["res://.godot/imported/pbrClearCoat.glsl-153480fb250eb145b7415f790cb5e85c.res"]
+
+[params]
+

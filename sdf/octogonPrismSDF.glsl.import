@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://byh31otj1l6ct"
+path="res://.godot/imported/octogonPrismSDF.glsl-22d09b0597eb95e0c432fc881c813995.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/octogonPrismSDF.glsl"
+dest_files=["res://.godot/imported/octogonPrismSDF.glsl-22d09b0597eb95e0c432fc881c813995.res"]
+
+[params]
+

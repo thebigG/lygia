@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ddm7fbfwihlpp"
+path="res://.godot/imported/triTile.glsl-9ed235d594c825db7d623ece432e890b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/triTile.glsl"
+dest_files=["res://.godot/imported/triTile.glsl-9ed235d594c825db7d623ece432e890b.res"]
+
+[params]
+

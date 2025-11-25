@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://444pwls6vx4i"
+path="res://.godot/imported/lut.glsl-05fb5033eb63b4c1b69ef56323e7cded.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/lut.glsl"
+dest_files=["res://.godot/imported/lut.glsl-05fb5033eb63b4c1b69ef56323e7cded.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cyvdwkxfuwr68"
+path="res://.godot/imported/brightnessMatrix.glsl-358cf7775f375590283927a61a497769.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/brightnessMatrix.glsl"
+dest_files=["res://.godot/imported/brightnessMatrix.glsl-358cf7775f375590283927a61a497769.res"]
+
+[params]
+

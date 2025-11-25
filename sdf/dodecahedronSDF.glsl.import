@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c6kbf43k0qrbk"
+path="res://.godot/imported/dodecahedronSDF.glsl-8183aaddd5fb8924b0aaef425818b029.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/dodecahedronSDF.glsl"
+dest_files=["res://.godot/imported/dodecahedronSDF.glsl-8183aaddd5fb8924b0aaef425818b029.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bmsnjd5x2ueje"
+path="res://.godot/imported/water.glsl-f5387aec55cf6c414b8c4f7c7c041ad2.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/water.glsl"
+dest_files=["res://.godot/imported/water.glsl-f5387aec55cf6c414b8c4f7c7c041ad2.res"]
+
+[params]
+

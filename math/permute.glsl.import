@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://04ns7y0mfb4"
+path="res://.godot/imported/permute.glsl-276e6f98ad0d47621331598ef0d5b617.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/permute.glsl"
+dest_files=["res://.godot/imported/permute.glsl-276e6f98ad0d47621331598ef0d5b617.res"]
+
+[params]
+

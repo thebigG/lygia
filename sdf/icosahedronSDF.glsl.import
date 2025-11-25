@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d36bon0ub2tle"
+path="res://.godot/imported/icosahedronSDF.glsl-bcf170b8bcc3eeae4a127fc8c0771876.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/icosahedronSDF.glsl"
+dest_files=["res://.godot/imported/icosahedronSDF.glsl-bcf170b8bcc3eeae4a127fc8c0771876.res"]
+
+[params]
+

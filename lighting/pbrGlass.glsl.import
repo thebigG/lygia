@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bt1x0fbqpubbp"
+path="res://.godot/imported/pbrGlass.glsl-25602c24f768b68480d860ae34e49afe.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/pbrGlass.glsl"
+dest_files=["res://.godot/imported/pbrGlass.glsl-25602c24f768b68480d860ae34e49afe.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://crvfn46u4bl3f"
+path="res://.godot/imported/spriteLoop.glsl-2ceb7bd9a911798fcfdfcadc54a42ce0.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/spriteLoop.glsl"
+dest_files=["res://.godot/imported/spriteLoop.glsl-2ceb7bd9a911798fcfdfcadc54a42ce0.res"]
+
+[params]
+

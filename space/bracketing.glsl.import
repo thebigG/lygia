@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cpvo0t6ttxbai"
+path="res://.godot/imported/bracketing.glsl-a9ee4081aa942ab0a34bbfbbdbc74c7a.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/bracketing.glsl"
+dest_files=["res://.godot/imported/bracketing.glsl-a9ee4081aa942ab0a34bbfbbdbc74c7a.res"]
+
+[params]
+

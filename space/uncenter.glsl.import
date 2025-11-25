@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c428olp3seife"
+path="res://.godot/imported/uncenter.glsl-b0216add4074ebe6eedffe0e72556689.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/uncenter.glsl"
+dest_files=["res://.godot/imported/uncenter.glsl-b0216add4074ebe6eedffe0e72556689.res"]
+
+[params]
+

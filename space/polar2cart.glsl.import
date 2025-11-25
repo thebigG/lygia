@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bas7kkdf04bkp"
+path="res://.godot/imported/polar2cart.glsl-a541a67abc0ea4ca6ea1d429c8877499.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/polar2cart.glsl"
+dest_files=["res://.godot/imported/polar2cart.glsl-a541a67abc0ea4ca6ea1d429c8877499.res"]
+
+[params]
+

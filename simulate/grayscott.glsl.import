@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cueceiuspt50f"
+path="res://.godot/imported/grayscott.glsl-e96ce77e5ab38c0b4e24dbb09fa44170.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/simulate/grayscott.glsl"
+dest_files=["res://.godot/imported/grayscott.glsl-e96ce77e5ab38c0b4e24dbb09fa44170.res"]
+
+[params]
+

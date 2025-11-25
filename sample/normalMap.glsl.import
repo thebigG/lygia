@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dg0kvveyx7wky"
+path="res://.godot/imported/normalMap.glsl-63013050a1c80948ab5c2d95af503a51.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/normalMap.glsl"
+dest_files=["res://.godot/imported/normalMap.glsl-63013050a1c80948ab5c2d95af503a51.res"]
+
+[params]
+

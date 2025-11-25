@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b416a15hba1xe"
+path="res://.godot/imported/uncharted2.glsl-06ed81a9d0ddac8368653bf8cc2d6bcf.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/tonemap/uncharted2.glsl"
+dest_files=["res://.godot/imported/uncharted2.glsl-06ed81a9d0ddac8368653bf8cc2d6bcf.res"]
+
+[params]
+

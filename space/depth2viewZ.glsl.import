@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bibaxon3ps6kt"
+path="res://.godot/imported/depth2viewZ.glsl-7239204930973b11a6b1921abd63054d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/depth2viewZ.glsl"
+dest_files=["res://.godot/imported/depth2viewZ.glsl-7239204930973b11a6b1921abd63054d.res"]
+
+[params]
+

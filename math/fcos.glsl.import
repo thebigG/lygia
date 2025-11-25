@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cibj6wattuhhl"
+path="res://.godot/imported/fcos.glsl-244aadb6cd6ff9767b1f25c4bdbe8194.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/fcos.glsl"
+dest_files=["res://.godot/imported/fcos.glsl-244aadb6cd6ff9767b1f25c4bdbe8194.res"]
+
+[params]
+

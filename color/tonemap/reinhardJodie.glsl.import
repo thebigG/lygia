@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://x5efu64oym4g"
+path="res://.godot/imported/reinhardJodie.glsl-2011788d0fb7d8b6dcefd84b789a6879.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/tonemap/reinhardJodie.glsl"
+dest_files=["res://.godot/imported/reinhardJodie.glsl-2011788d0fb7d8b6dcefd84b789a6879.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dhmc0237ncr8m"
+path="res://.godot/imported/winsor_oil.glsl-75ce00834d2466da59c18ac65d0dbfe6.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/pigments/winsor_oil.glsl"
+dest_files=["res://.godot/imported/winsor_oil.glsl-75ce00834d2466da59c18ac65d0dbfe6.res"]
+
+[params]
+

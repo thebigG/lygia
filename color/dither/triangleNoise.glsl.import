@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dghqrgehcoj3f"
+path="res://.godot/imported/triangleNoise.glsl-a35b3da4ec7448b96c491008af2ef92b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/dither/triangleNoise.glsl"
+dest_files=["res://.godot/imported/triangleNoise.glsl-a35b3da4ec7448b96c491008af2ef92b.res"]
+
+[params]
+

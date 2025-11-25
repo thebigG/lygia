@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c7jn7q70h64ll"
+path="res://.godot/imported/hue.glsl-a4a7a4c3101c2e0f787b1af6e9902b1b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/hue.glsl"
+dest_files=["res://.godot/imported/hue.glsl-a4a7a4c3101c2e0f787b1af6e9902b1b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d1h7banytl42h"
+path="res://.godot/imported/simpleAndFastFluid.glsl-9ae8cf7281d95dd0713ec96885dfac5d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/simulate/simpleAndFastFluid.glsl"
+dest_files=["res://.godot/imported/simpleAndFastFluid.glsl-9ae8cf7281d95dd0713ec96885dfac5d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cmq76pc23ck51"
+path="res://.godot/imported/rgb2heat.glsl-c860d23c6415ae9671e46adeeb7f4d77.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/space/rgb2heat.glsl"
+dest_files=["res://.godot/imported/rgb2heat.glsl-c860d23c6415ae9671e46adeeb7f4d77.res"]
+
+[params]
+

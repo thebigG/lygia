@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dgdie8ofie0ry"
+path="res://.godot/imported/dither.glsl-54b828bbfd7133bb36a4a246b700b325.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/dither.glsl"
+dest_files=["res://.godot/imported/dither.glsl-54b828bbfd7133bb36a4a246b700b325.res"]
+
+[params]
+

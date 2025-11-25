@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c815x5ick1ylk"
+path="res://.godot/imported/parallaxMapping.glsl-c25b8622dd63cf20a0b262c6ae3e6ecf.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/parallaxMapping.glsl"
+dest_files=["res://.godot/imported/parallaxMapping.glsl-c25b8622dd63cf20a0b262c6ae3e6ecf.res"]
+
+[params]
+

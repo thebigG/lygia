@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bdt8tcbkq10qk"
+path="res://.godot/imported/bilinear.glsl-6c734a3ceab092541039923fae07f1ce.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/bilinear.glsl"
+dest_files=["res://.godot/imported/bilinear.glsl-6c734a3ceab092541039923fae07f1ce.res"]
+
+[params]
+

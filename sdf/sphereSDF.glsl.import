@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d07vihugavx58"
+path="res://.godot/imported/sphereSDF.glsl-fe18d591fbfd73dfc6abf1c8577f1d32.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/sphereSDF.glsl"
+dest_files=["res://.godot/imported/sphereSDF.glsl-fe18d591fbfd73dfc6abf1c8577f1d32.res"]
+
+[params]
+

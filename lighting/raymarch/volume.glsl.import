@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c2nkw4yjegeso"
+path="res://.godot/imported/volume.glsl-391f4dc041af9e33e34d086d6a81467f.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/raymarch/volume.glsl"
+dest_files=["res://.godot/imported/volume.glsl-391f4dc041af9e33e34d086d6a81467f.res"]
+
+[params]
+

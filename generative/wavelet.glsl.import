@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bw7dophc7j5xk"
+path="res://.godot/imported/wavelet.glsl-f44f51310579ada49a58c66a9757eda0.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/generative/wavelet.glsl"
+dest_files=["res://.godot/imported/wavelet.glsl-f44f51310579ada49a58c66a9757eda0.res"]
+
+[params]
+

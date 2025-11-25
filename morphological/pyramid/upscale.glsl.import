@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dwpjk7tq5gh4f"
+path="res://.godot/imported/upscale.glsl-b86886ae795f79aa91af544fa221f58d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/morphological/pyramid/upscale.glsl"
+dest_files=["res://.godot/imported/upscale.glsl-b86886ae795f79aa91af544fa221f58d.res"]
+
+[params]
+

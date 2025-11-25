@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bwrgnvcr08bwc"
+path="res://.godot/imported/bayer.glsl-9dfcb1224367e388e958cef949c7622c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/dither/bayer.glsl"
+dest_files=["res://.godot/imported/bayer.glsl-9dfcb1224367e388e958cef949c7622c.res"]
+
+[params]
+

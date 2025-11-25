@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bwjljxbp2kwca"
+path="res://.godot/imported/quarticIn.glsl-60be6022b594021a0b39aa3e1f63edad.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/quarticIn.glsl"
+dest_files=["res://.godot/imported/quarticIn.glsl-60be6022b594021a0b39aa3e1f63edad.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://wgvbxf6le78c"
+path="res://.godot/imported/roughness.glsl-c123f3b5b45e6a7d8b8459ea36586ac3.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/material/roughness.glsl"
+dest_files=["res://.godot/imported/roughness.glsl-c123f3b5b45e6a7d8b8459ea36586ac3.res"]
+
+[params]
+

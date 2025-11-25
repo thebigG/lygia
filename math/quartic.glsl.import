@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cig10hm6tehnm"
+path="res://.godot/imported/quartic.glsl-a03f58e353f6e507f7bce3a89f0b7bec.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/quartic.glsl"
+dest_files=["res://.godot/imported/quartic.glsl-a03f58e353f6e507f7bce3a89f0b7bec.res"]
+
+[params]
+

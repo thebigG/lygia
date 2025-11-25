@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c47dmklerutfp"
+path="res://.godot/imported/cmyk2rgb.glsl-ad2592c2001846a2767a0a2c6b1d7c21.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/space/cmyk2rgb.glsl"
+dest_files=["res://.godot/imported/cmyk2rgb.glsl-ad2592c2001846a2767a0a2c6b1d7c21.res"]
+
+[params]
+

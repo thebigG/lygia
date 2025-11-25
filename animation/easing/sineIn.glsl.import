@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cekcpu7ehfx6a"
+path="res://.godot/imported/sineIn.glsl-0f74dc5ab94a6a56189052329b730ef4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/sineIn.glsl"
+dest_files=["res://.godot/imported/sineIn.glsl-0f74dc5ab94a6a56189052329b730ef4.res"]
+
+[params]
+

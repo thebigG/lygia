@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bjqxisxcbkn0i"
+path="res://.godot/imported/sourceAtop.glsl-ea66aecdad0d687b2df5b429c0ca130d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/composite/sourceAtop.glsl"
+dest_files=["res://.godot/imported/sourceAtop.glsl-ea66aecdad0d687b2df5b429c0ca130d.res"]
+
+[params]
+

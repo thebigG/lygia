@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://h5tycdo41j5p"
+path="res://.godot/imported/pyramidSDF.glsl-a939b0db19df2fadb31f9753818e4245.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/pyramidSDF.glsl"
+dest_files=["res://.godot/imported/pyramidSDF.glsl-a939b0db19df2fadb31f9753818e4245.res"]
+
+[params]
+

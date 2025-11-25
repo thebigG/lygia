@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://0vwc4ib3vihn"
+path="res://.godot/imported/view2screenPosition.glsl-75bcd6d6b89c16374ce4d041851d2585.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/view2screenPosition.glsl"
+dest_files=["res://.godot/imported/view2screenPosition.glsl-75bcd6d6b89c16374ce4d041851d2585.res"]
+
+[params]
+

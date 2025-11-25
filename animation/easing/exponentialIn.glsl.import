@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://co2xnfkabsqci"
+path="res://.godot/imported/exponentialIn.glsl-2c3a3148c99d7a58dcf876b75a52ca7b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/exponentialIn.glsl"
+dest_files=["res://.godot/imported/exponentialIn.glsl-2c3a3148c99d7a58dcf876b75a52ca7b.res"]
+
+[params]
+

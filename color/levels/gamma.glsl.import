@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://2alv88j80xxc"
+path="res://.godot/imported/gamma.glsl-f73cb096a62770c88539e0f7966eca62.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/levels/gamma.glsl"
+dest_files=["res://.godot/imported/gamma.glsl-f73cb096a62770c88539e0f7966eca62.res"]
+
+[params]
+

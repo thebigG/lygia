@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c1si45tg8rwe2"
+path="res://.godot/imported/psrdnoise.glsl-689728e036c11e2b08b1689a69c8aee8.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/generative/psrdnoise.glsl"
+dest_files=["res://.godot/imported/psrdnoise.glsl-689728e036c11e2b08b1689a69c8aee8.res"]
+
+[params]
+

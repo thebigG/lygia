@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cha6ibibyub51"
+path="res://.godot/imported/linearLightSourceOver.glsl-1fe8042a9614e35b476b949bd956c61b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/linearLightSourceOver.glsl"
+dest_files=["res://.godot/imported/linearLightSourceOver.glsl-1fe8042a9614e35b476b949bd956c61b.res"]
+
+[params]
+

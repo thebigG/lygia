@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://lmy6sc1ywry"
+path="res://.godot/imported/boxBlur.glsl-0d9bf0ca3a6ecf0aca6fae950a77c5de.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/boxBlur.glsl"
+dest_files=["res://.godot/imported/boxBlur.glsl-0d9bf0ca3a6ecf0aca6fae950a77c5de.res"]
+
+[params]
+

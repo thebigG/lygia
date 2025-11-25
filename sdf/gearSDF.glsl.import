@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://crc4bls5i75vr"
+path="res://.godot/imported/gearSDF.glsl-2c00803b90f4c2f448352eb256e88281.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/gearSDF.glsl"
+dest_files=["res://.godot/imported/gearSDF.glsl-2c00803b90f4c2f448352eb256e88281.res"]
+
+[params]
+

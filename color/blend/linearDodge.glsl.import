@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dtcum10e84h7h"
+path="res://.godot/imported/linearDodge.glsl-a88c3b8608aa238a14b6d1e4382c1825.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/linearDodge.glsl"
+dest_files=["res://.godot/imported/linearDodge.glsl-a88c3b8608aa238a14b6d1e4382c1825.res"]
+
+[params]
+

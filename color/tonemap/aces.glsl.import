@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bwubqdms55ts5"
+path="res://.godot/imported/aces.glsl-5362b11f222f369f6c28e2f5ad8ddac4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/tonemap/aces.glsl"
+dest_files=["res://.godot/imported/aces.glsl-5362b11f222f369f6c28e2f5ad8ddac4.res"]
+
+[params]
+

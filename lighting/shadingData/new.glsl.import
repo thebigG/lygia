@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dd86nfqbx6ccg"
+path="res://.godot/imported/new.glsl-2ca66f4938b5e3df3a198d76cfa59742.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/shadingData/new.glsl"
+dest_files=["res://.godot/imported/new.glsl-2ca66f4938b5e3df3a198d76cfa59742.res"]
+
+[params]
+

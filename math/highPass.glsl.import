@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bj2x7i7e1x6cg"
+path="res://.godot/imported/highPass.glsl-da6887975e17cdbe62ff27257a1eefcc.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/highPass.glsl"
+dest_files=["res://.godot/imported/highPass.glsl-da6887975e17cdbe62ff27257a1eefcc.res"]
+
+[params]
+

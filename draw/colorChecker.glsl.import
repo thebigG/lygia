@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://belpa3aw506v5"
+path="res://.godot/imported/colorChecker.glsl-cdc38270f40b1c09d171b0666bfd45ce.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/draw/colorChecker.glsl"
+dest_files=["res://.godot/imported/colorChecker.glsl-cdc38270f40b1c09d171b0666bfd45ce.res"]
+
+[params]
+

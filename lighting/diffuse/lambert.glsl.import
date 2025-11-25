@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bu3yd0w460mlk"
+path="res://.godot/imported/lambert.glsl-a63e94bd5e26dd92cb82501a75617e4f.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/diffuse/lambert.glsl"
+dest_files=["res://.godot/imported/lambert.glsl-a63e94bd5e26dd92cb82501a75617e4f.res"]
+
+[params]
+

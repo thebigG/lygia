@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dgby4rmo7glit"
+path="res://.godot/imported/kochSDF.glsl-1cdf1897904acfed716489c321711d04.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/kochSDF.glsl"
+dest_files=["res://.godot/imported/kochSDF.glsl-1cdf1897904acfed716489c321711d04.res"]
+
+[params]
+

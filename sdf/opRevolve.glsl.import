@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://drlsuk3c5nm3s"
+path="res://.godot/imported/opRevolve.glsl-8163fd077d0794d6701963256713039b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/opRevolve.glsl"
+dest_files=["res://.godot/imported/opRevolve.glsl-8163fd077d0794d6701963256713039b.res"]
+
+[params]
+

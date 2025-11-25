@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d2rya3ydvk0qi"
+path="res://.godot/imported/softLight.glsl-4decb0a0fd0e8c53422298e7e78fb25d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/softLight.glsl"
+dest_files=["res://.godot/imported/softLight.glsl-4decb0a0fd0e8c53422298e7e78fb25d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://csjauahnugm25"
+path="res://.godot/imported/cnoise.glsl-a10dc2cd4718c9c504b44107990955e4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/generative/cnoise.glsl"
+dest_files=["res://.godot/imported/cnoise.glsl-a10dc2cd4718c9c504b44107990955e4.res"]
+
+[params]
+

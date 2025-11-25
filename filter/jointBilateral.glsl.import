@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://3bbhj6msotdx"
+path="res://.godot/imported/jointBilateral.glsl-7fbaf197802bea7866390542cb5ba5e8.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/jointBilateral.glsl"
+dest_files=["res://.godot/imported/jointBilateral.glsl-7fbaf197802bea7866390542cb5ba5e8.res"]
+
+[params]
+

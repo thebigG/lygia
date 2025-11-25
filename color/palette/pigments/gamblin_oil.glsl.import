@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bcnu7g5atuepx"
+path="res://.godot/imported/gamblin_oil.glsl-4ba2bf1749146d061d3a225f3b6f9fc0.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/pigments/gamblin_oil.glsl"
+dest_files=["res://.godot/imported/gamblin_oil.glsl-4ba2bf1749146d061d3a225f3b6f9fc0.res"]
+
+[params]
+

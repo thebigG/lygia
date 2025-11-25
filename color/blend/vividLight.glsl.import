@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bhkw71nt60dnh"
+path="res://.godot/imported/vividLight.glsl-8cf138fda8331534772f8df107916542.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend/vividLight.glsl"
+dest_files=["res://.godot/imported/vividLight.glsl-8cf138fda8331534772f8df107916542.res"]
+
+[params]
+

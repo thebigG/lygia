@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c0t4beyqn1fkj"
+path="res://.godot/imported/exposure.glsl-2c8b114e304461ba21613c9b4de415f4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/exposure.glsl"
+dest_files=["res://.godot/imported/exposure.glsl-2c8b114e304461ba21613c9b4de415f4.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cqyxsraotbls0"
+path="res://.godot/imported/stretch.glsl-97dafab13dda2e1da769336c133fb621.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/distort/stretch.glsl"
+dest_files=["res://.godot/imported/stretch.glsl-97dafab13dda2e1da769336c133fb621.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b2b0rqgntdsb2"
+path="res://.godot/imported/intersect.glsl-fbd938406f963be4ac1c1f31e9bd091d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/triangle/intersect.glsl"
+dest_files=["res://.godot/imported/intersect.glsl-fbd938406f963be4ac1c1f31e9bd091d.res"]
+
+[params]
+

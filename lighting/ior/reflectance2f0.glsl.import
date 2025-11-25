@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://nvp5w0quxhwh"
+path="res://.godot/imported/reflectance2f0.glsl-20479b5b5820be6122039fc543f396d7.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/ior/reflectance2f0.glsl"
+dest_files=["res://.godot/imported/reflectance2f0.glsl-20479b5b5820be6122039fc543f396d7.res"]
+
+[params]
+

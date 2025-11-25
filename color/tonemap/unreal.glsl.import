@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dr6ts0gnn80ql"
+path="res://.godot/imported/unreal.glsl-fc90d893ee8d14a6f5029444bec4839d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/tonemap/unreal.glsl"
+dest_files=["res://.godot/imported/unreal.glsl-fc90d893ee8d14a6f5029444bec4839d.res"]
+
+[params]
+

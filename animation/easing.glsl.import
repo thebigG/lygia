@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cllxsqgmp6fcu"
+path="res://.godot/imported/easing.glsl-d69339734b3aca264e5fdab1ccd7cc5b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing.glsl"
+dest_files=["res://.godot/imported/easing.glsl-d69339734b3aca264e5fdab1ccd7cc5b.res"]
+
+[params]
+

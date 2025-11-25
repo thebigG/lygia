@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://di6f2odt146qm"
+path="res://.godot/imported/inverse.glsl-a996baa96fcc5b604b48e4fde28a5785.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/inverse.glsl"
+dest_files=["res://.godot/imported/inverse.glsl-a996baa96fcc5b604b48e4fde28a5785.res"]
+
+[params]
+

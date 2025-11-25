@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dia0jtkdggp6u"
+path="res://.godot/imported/boxFrameSDF.glsl-bc6082bc5200d4f1a41ebbbaa54afe71.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/boxFrameSDF.glsl"
+dest_files=["res://.godot/imported/boxFrameSDF.glsl-bc6082bc5200d4f1a41ebbbaa54afe71.res"]
+
+[params]
+

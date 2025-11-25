@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://6gg7lu78ort5"
+path="res://.godot/imported/ridgway.glsl-109765bd15dcdeef681541ac0c2183e5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/ridgway.glsl"
+dest_files=["res://.godot/imported/ridgway.glsl-109765bd15dcdeef681541ac0c2183e5.res"]
+
+[params]
+

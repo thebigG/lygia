@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cq26xs3qs81se"
+path="res://.godot/imported/yuv.glsl-4c1caf1b181cb3bc387f12fa3322300f.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/yuv.glsl"
+dest_files=["res://.godot/imported/yuv.glsl-4c1caf1b181cb3bc387f12fa3322300f.res"]
+
+[params]
+

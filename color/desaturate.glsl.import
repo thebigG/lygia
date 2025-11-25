@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ctbh03e64r4tr"
+path="res://.godot/imported/desaturate.glsl-a1372b46910e1466a0ac55c234b67fbf.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/desaturate.glsl"
+dest_files=["res://.godot/imported/desaturate.glsl-a1372b46910e1466a0ac55c234b67fbf.res"]
+
+[params]
+

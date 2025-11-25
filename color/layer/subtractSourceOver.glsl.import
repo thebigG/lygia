@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://gqor141hab18"
+path="res://.godot/imported/subtractSourceOver.glsl-b2f0afb03e9dfc1c2230ad7be93134e3.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/subtractSourceOver.glsl"
+dest_files=["res://.godot/imported/subtractSourceOver.glsl-b2f0afb03e9dfc1c2230ad7be93134e3.res"]
+
+[params]
+

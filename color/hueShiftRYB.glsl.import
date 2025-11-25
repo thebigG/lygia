@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://10uj6x52ytx3"
+path="res://.godot/imported/hueShiftRYB.glsl-5bc0f3ee5172f4d774479993e002b414.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/hueShiftRYB.glsl"
+dest_files=["res://.godot/imported/hueShiftRYB.glsl-5bc0f3ee5172f4d774479993e002b414.res"]
+
+[params]
+

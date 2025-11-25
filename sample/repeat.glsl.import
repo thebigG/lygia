@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dirlnjl85ebgb"
+path="res://.godot/imported/repeat.glsl-295fab0fe711a845b476c8f45979d8bd.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/repeat.glsl"
+dest_files=["res://.godot/imported/repeat.glsl-295fab0fe711a845b476c8f45979d8bd.res"]
+
+[params]
+

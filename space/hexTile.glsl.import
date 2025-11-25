@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c6e23prmsy8nc"
+path="res://.godot/imported/hexTile.glsl-d6ddd54d4cae482a388286d166fba6ec.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/hexTile.glsl"
+dest_files=["res://.godot/imported/hexTile.glsl-d6ddd54d4cae482a388286d166fba6ec.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dw02twooqk7an"
+path="res://.godot/imported/back.glsl-46726422094d07ebe846ac21b1fa40ee.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/back.glsl"
+dest_files=["res://.godot/imported/back.glsl-46726422094d07ebe846ac21b1fa40ee.res"]
+
+[params]
+

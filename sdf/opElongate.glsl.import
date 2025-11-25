@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dcjmf4gxkb7a1"
+path="res://.godot/imported/opElongate.glsl-dc547bd4d5de69e9cbb17f84ceb542a5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/opElongate.glsl"
+dest_files=["res://.godot/imported/opElongate.glsl-dc547bd4d5de69e9cbb17f84ceb542a5.res"]
+
+[params]
+

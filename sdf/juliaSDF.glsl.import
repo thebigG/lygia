@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dp32ky3xv2fox"
+path="res://.godot/imported/juliaSDF.glsl-534e6be77f275fc06daadcfa3e2622bf.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/juliaSDF.glsl"
+dest_files=["res://.godot/imported/juliaSDF.glsl-534e6be77f275fc06daadcfa3e2622bf.res"]
+
+[params]
+

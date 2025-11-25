@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dcuiwostlhtou"
+path="res://.godot/imported/mixSpectral.glsl-01f254774a517b0121f5ffef574f7f4d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/mixSpectral.glsl"
+dest_files=["res://.godot/imported/mixSpectral.glsl-01f254774a517b0121f5ffef574f7f4d.res"]
+
+[params]
+

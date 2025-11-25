@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dh2wmpd6pb4yd"
+path="res://.godot/imported/rembrandt_oil.glsl-a3d719fe3e0da6c1c183f68b5e6c201b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/pigments/rembrandt_oil.glsl"
+dest_files=["res://.godot/imported/rembrandt_oil.glsl-a3d719fe3e0da6c1c183f68b5e6c201b.res"]
+
+[params]
+

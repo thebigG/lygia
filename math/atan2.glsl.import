@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cnsatg0skyg7n"
+path="res://.godot/imported/atan2.glsl-7cf5c029ddda8a9f4ec412ef9d52abd0.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/atan2.glsl"
+dest_files=["res://.godot/imported/atan2.glsl-7cf5c029ddda8a9f4ec412ef9d52abd0.res"]
+
+[params]
+

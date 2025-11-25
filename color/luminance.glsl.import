@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://wk43bgcld7ao"
+path="res://.godot/imported/luminance.glsl-11b6adc7ab83bf5fd1e1531b15256f53.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/luminance.glsl"
+dest_files=["res://.godot/imported/luminance.glsl-11b6adc7ab83bf5fd1e1531b15256f53.res"]
+
+[params]
+

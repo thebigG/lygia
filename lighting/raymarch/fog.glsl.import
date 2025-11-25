@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cuw3wj8uvc5hk"
+path="res://.godot/imported/fog.glsl-6043bcfcbfb7de2c79233171a030b749.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/raymarch/fog.glsl"
+dest_files=["res://.godot/imported/fog.glsl-6043bcfcbfb7de2c79233171a030b749.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dl1rpqcbr51v6"
+path="res://.godot/imported/fresnelReflection.glsl-23d5b8e5b4203dadc1681dbe325b220d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/fresnelReflection.glsl"
+dest_files=["res://.godot/imported/fresnelReflection.glsl-23d5b8e5b4203dadc1681dbe325b220d.res"]
+
+[params]
+

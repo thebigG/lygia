@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://paj6sh5l46mq"
+path="res://.godot/imported/hammersley.glsl-c9243a1ef72655cb2cb06aca5252ffdb.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/hammersley.glsl"
+dest_files=["res://.godot/imported/hammersley.glsl-c9243a1ef72655cb2cb06aca5252ffdb.res"]
+
+[params]
+

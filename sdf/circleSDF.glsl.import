@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://brhnmej4pwlw2"
+path="res://.godot/imported/circleSDF.glsl-929c6239ace2e6703762364de225191a.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/circleSDF.glsl"
+dest_files=["res://.godot/imported/circleSDF.glsl-929c6239ace2e6703762364de225191a.res"]
+
+[params]
+

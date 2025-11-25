@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dxsqjs6wxsued"
+path="res://.godot/imported/shadow.glsl-4d6eab96667f8c826d090f0fa3062eb4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/shadow.glsl"
+dest_files=["res://.godot/imported/shadow.glsl-4d6eab96667f8c826d090f0fa3062eb4.res"]
+
+[params]
+

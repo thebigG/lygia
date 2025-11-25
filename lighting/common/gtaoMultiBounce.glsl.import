@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d2blqhuker4t8"
+path="res://.godot/imported/gtaoMultiBounce.glsl-1e77a5a33f9813900c7e2bd9b0e05663.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/gtaoMultiBounce.glsl"
+dest_files=["res://.godot/imported/gtaoMultiBounce.glsl-1e77a5a33f9813900c7e2bd9b0e05663.res"]
+
+[params]
+

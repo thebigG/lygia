@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://l2i2wcf2oq6k"
+path="res://.godot/imported/hexPrismSDF.glsl-c30f80cdd4bb9c048981ca4e38b76ae7.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/hexPrismSDF.glsl"
+dest_files=["res://.godot/imported/hexPrismSDF.glsl-c30f80cdd4bb9c048981ca4e38b76ae7.res"]
+
+[params]
+

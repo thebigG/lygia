@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d2aclwv2ka2vq"
+path="res://.godot/imported/normal.glsl-5a9c027a05c3c660de725ce49d1a3f0a.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/triangle/normal.glsl"
+dest_files=["res://.godot/imported/normal.glsl-5a9c027a05c3c660de725ce49d1a3f0a.res"]
+
+[params]
+

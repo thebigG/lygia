@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cmgltk1l4clic"
+path="res://.godot/imported/checkerTile.glsl-e89ed8f301208c48a239bfed85e4e775.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/checkerTile.glsl"
+dest_files=["res://.godot/imported/checkerTile.glsl-e89ed8f301208c48a239bfed85e4e775.res"]
+
+[params]
+

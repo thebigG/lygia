@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ch5lu44d4qls2"
+path="res://.godot/imported/falloff.glsl-231cfc0781716bfe4517ddd5144f94d0.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/light/falloff.glsl"
+dest_files=["res://.godot/imported/falloff.glsl-231cfc0781716bfe4517ddd5144f94d0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://i2ky5ja64sq8"
+path="res://.godot/imported/equirect.glsl-2dda463344cbd074f67b0810e031bb67.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/equirect.glsl"
+dest_files=["res://.godot/imported/equirect.glsl-2dda463344cbd074f67b0810e031bb67.res"]
+
+[params]
+

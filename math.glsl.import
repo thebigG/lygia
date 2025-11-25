@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bl5g5mikfb71o"
+path="res://.godot/imported/math.glsl-e560f3b84059781fe75651cfd2d366c3.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math.glsl"
+dest_files=["res://.godot/imported/math.glsl-e560f3b84059781fe75651cfd2d366c3.res"]
+
+[params]
+

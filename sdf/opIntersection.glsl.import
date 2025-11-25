@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c3ml76spxp1mq"
+path="res://.godot/imported/opIntersection.glsl-a298dfe1308739a22d17e1ed39082d72.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/opIntersection.glsl"
+dest_files=["res://.godot/imported/opIntersection.glsl-a298dfe1308739a22d17e1ed39082d72.res"]
+
+[params]
+

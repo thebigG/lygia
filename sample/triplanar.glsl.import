@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c15qcmxxin6ji"
+path="res://.godot/imported/triplanar.glsl-98db88d3a822d61b44adacafd9a6a190.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/triplanar.glsl"
+dest_files=["res://.godot/imported/triplanar.glsl-98db88d3a822d61b44adacafd9a6a190.res"]
+
+[params]
+

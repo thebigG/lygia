@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://vvnsxkhg6tk1"
+path="res://.godot/imported/normal.glsl-2b4591e9fd3a6c295a879590e2a6c0dd.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/raymarch/normal.glsl"
+dest_files=["res://.godot/imported/normal.glsl-2b4591e9fd3a6c295a879590e2a6c0dd.res"]
+
+[params]
+

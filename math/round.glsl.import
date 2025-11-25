@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bo8e7vrv828fn"
+path="res://.godot/imported/round.glsl-2c7ecdc498580d1c31d874c5443fcc6d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/round.glsl"
+dest_files=["res://.godot/imported/round.glsl-2c7ecdc498580d1c31d874c5443fcc6d.res"]
+
+[params]
+

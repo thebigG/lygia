@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://1ajq6ob3hb4"
+path="res://.godot/imported/arrowSDF.glsl-63f99a43830c77eb280473394c7179ea.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/arrowSDF.glsl"
+dest_files=["res://.godot/imported/arrowSDF.glsl-63f99a43830c77eb280473394c7179ea.res"]
+
+[params]
+

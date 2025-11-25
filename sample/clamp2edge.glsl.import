@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://8b3ipwkwmce"
+path="res://.godot/imported/clamp2edge.glsl-9a0dbff6a33b4e1b2f9542e12ee012cd.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/clamp2edge.glsl"
+dest_files=["res://.godot/imported/clamp2edge.glsl-9a0dbff6a33b4e1b2f9542e12ee012cd.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://v47b81j2xkby"
+path="res://.godot/imported/invQuartic.glsl-5c24893c580ef7d4f0f194b23ba48eee.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/invQuartic.glsl"
+dest_files=["res://.godot/imported/invQuartic.glsl-5c24893c580ef7d4f0f194b23ba48eee.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cuqf0bylsy5va"
+path="res://.godot/imported/macbeth.glsl-0dd25bf8447c2f0a8a0298da9f4a8fd5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/macbeth.glsl"
+dest_files=["res://.godot/imported/macbeth.glsl-0dd25bf8447c2f0a8a0298da9f4a8fd5.res"]
+
+[params]
+

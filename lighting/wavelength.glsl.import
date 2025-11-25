@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bebjxvqdcr1xk"
+path="res://.godot/imported/wavelength.glsl-5b996dfc9f33ceef425124ba497750d7.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/wavelength.glsl"
+dest_files=["res://.godot/imported/wavelength.glsl-5b996dfc9f33ceef425124ba497750d7.res"]
+
+[params]
+

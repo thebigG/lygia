@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://khavil07ruab"
+path="res://.godot/imported/2eta.glsl-11049f48dca001ebb4fa3199d15fd68d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/ior/2eta.glsl"
+dest_files=["res://.godot/imported/2eta.glsl-11049f48dca001ebb4fa3199d15fd68d.res"]
+
+[params]
+

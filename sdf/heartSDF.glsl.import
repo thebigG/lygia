@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dnl4rvhwd4vus"
+path="res://.godot/imported/heartSDF.glsl-66b278eec3a996b2ca555e8cb95c5169.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/heartSDF.glsl"
+dest_files=["res://.godot/imported/heartSDF.glsl-66b278eec3a996b2ca555e8cb95c5169.res"]
+
+[params]
+

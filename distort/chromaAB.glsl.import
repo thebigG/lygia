@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b511pv5w15rs1"
+path="res://.godot/imported/chromaAB.glsl-19e916a8ce2693277efaf2c2ce6cf2b5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/distort/chromaAB.glsl"
+dest_files=["res://.godot/imported/chromaAB.glsl-19e916a8ce2693277efaf2c2ce6cf2b5.res"]
+
+[params]
+

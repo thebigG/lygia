@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b1u57q82tp85m"
+path="res://.godot/imported/flexoki.glsl-c9c35b83428c9ce93510bb59a6e26c40.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/flexoki.glsl"
+dest_files=["res://.godot/imported/flexoki.glsl-c9c35b83428c9ce93510bb59a6e26c40.res"]
+
+[params]
+

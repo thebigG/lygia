@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bb55r3br5833q"
+path="res://.godot/imported/shininess.glsl-fc6316584fe94dce2c12f7b04ef9812b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/material/shininess.glsl"
+dest_files=["res://.godot/imported/shininess.glsl-fc6316584fe94dce2c12f7b04ef9812b.res"]
+
+[params]
+

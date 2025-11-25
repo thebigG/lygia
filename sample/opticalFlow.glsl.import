@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://n2cjobb27usn"
+path="res://.godot/imported/opticalFlow.glsl-e487503beb468bfa91b529ba91b82389.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/opticalFlow.glsl"
+dest_files=["res://.godot/imported/opticalFlow.glsl-e487503beb468bfa91b529ba91b82389.res"]
+
+[params]
+

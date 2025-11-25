@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dsheac0xynvoh"
+path="res://.godot/imported/flowerSDF.glsl-5c0526df0972bc2a4a6d989a1cb679f8.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/flowerSDF.glsl"
+dest_files=["res://.godot/imported/flowerSDF.glsl-5c0526df0972bc2a4a6d989a1cb679f8.res"]
+
+[params]
+

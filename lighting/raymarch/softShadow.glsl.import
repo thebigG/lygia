@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d135pog1o40ke"
+path="res://.godot/imported/softShadow.glsl-b9261daee7d4979e58fabc9de0d6c9af.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/raymarch/softShadow.glsl"
+dest_files=["res://.godot/imported/softShadow.glsl-b9261daee7d4979e58fabc9de0d6c9af.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b7fr21y6ne8g5"
+path="res://.godot/imported/shadowPCF.glsl-2e182f61ee21e0ec1cce394bc0a84bc8.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sample/shadowPCF.glsl"
+dest_files=["res://.godot/imported/shadowPCF.glsl-2e182f61ee21e0ec1cce394bc0a84bc8.res"]
+
+[params]
+

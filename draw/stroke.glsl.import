@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ocfhl7w74yw3"
+path="res://.godot/imported/stroke.glsl-01cb52eb3d00897ab9a71f08a15d610c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/draw/stroke.glsl"
+dest_files=["res://.godot/imported/stroke.glsl-01cb52eb3d00897ab9a71f08a15d610c.res"]
+
+[params]
+

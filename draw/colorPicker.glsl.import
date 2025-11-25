@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://blcspp8tnspjr"
+path="res://.godot/imported/colorPicker.glsl-4e0390f92b28d7c0cfa757ef64193bdc.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/draw/colorPicker.glsl"
+dest_files=["res://.godot/imported/colorPicker.glsl-4e0390f92b28d7c0cfa757ef64193bdc.res"]
+
+[params]
+

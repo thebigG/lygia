@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cor1yyl12d7vq"
+path="res://.godot/imported/debugCube.glsl-af24b38f83c7739a2028b1bfa22d1645.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/debugCube.glsl"
+dest_files=["res://.godot/imported/debugCube.glsl-af24b38f83c7739a2028b1bfa22d1645.res"]
+
+[params]
+

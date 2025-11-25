@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://fi7akm481nga"
+path="res://.godot/imported/pyramid.glsl-9d7a4a4f8353c327296e27274463dd3e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/morphological/pyramid.glsl"
+dest_files=["res://.godot/imported/pyramid.glsl-9d7a4a4f8353c327296e27274463dd3e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bg2b52jksp33e"
+path="res://.godot/imported/transparent.glsl-64fc58f7cc21affe5a7d1b16218c0a64.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/transparent.glsl"
+dest_files=["res://.godot/imported/transparent.glsl-64fc58f7cc21affe5a7d1b16218c0a64.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://3klosahujp2a"
+path="res://.godot/imported/windmillTile.glsl-be5d3841c815c7cc83c41bd3bc3d8956.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/windmillTile.glsl"
+dest_files=["res://.godot/imported/windmillTile.glsl-be5d3841c815c7cc83c41bd3bc3d8956.res"]
+
+[params]
+

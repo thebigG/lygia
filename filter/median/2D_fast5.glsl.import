@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cu4vaufpgwmrh"
+path="res://.godot/imported/2D_fast5.glsl-fd5d712e523fe3262cad3328772554fa.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/filter/median/2D_fast5.glsl"
+dest_files=["res://.godot/imported/2D_fast5.glsl-fd5d712e523fe3262cad3328772554fa.res"]
+
+[params]
+

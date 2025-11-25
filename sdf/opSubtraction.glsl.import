@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cxfhu51sj8dv1"
+path="res://.godot/imported/opSubtraction.glsl-9d43bff4cd0f2dc500d0b94e21ef902a.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/opSubtraction.glsl"
+dest_files=["res://.godot/imported/opSubtraction.glsl-9d43bff4cd0f2dc500d0b94e21ef902a.res"]
+
+[params]
+

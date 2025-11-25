@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dgfbwbc48twee"
+path="res://.godot/imported/cubicMix.glsl-fc755dd4fce7086b7c8ba5ee098ff568.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/cubicMix.glsl"
+dest_files=["res://.godot/imported/cubicMix.glsl-fc755dd4fce7086b7c8ba5ee098ff568.res"]
+
+[params]
+

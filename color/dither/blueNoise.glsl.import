@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://crfv52byg55bl"
+path="res://.godot/imported/blueNoise.glsl-d2a8666cd7c54abda6fb98131fb61c8d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/dither/blueNoise.glsl"
+dest_files=["res://.godot/imported/blueNoise.glsl-d2a8666cd7c54abda6fb98131fb61c8d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://8x22m7wkv035"
+path="res://.godot/imported/diffuse.glsl-1d99e8dc87acdb15d540010f1f369a37.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/diffuse.glsl"
+dest_files=["res://.godot/imported/diffuse.glsl-1d99e8dc87acdb15d540010f1f369a37.res"]
+
+[params]
+

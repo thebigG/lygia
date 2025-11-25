@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://brfifamq1r2ex"
+path="res://.godot/imported/aamirror.glsl-ad05d7b03738729c093fddcbd5d2a68e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/aamirror.glsl"
+dest_files=["res://.godot/imported/aamirror.glsl-ad05d7b03738729c093fddcbd5d2a68e.res"]
+
+[params]
+

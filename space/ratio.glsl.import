@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b5tyi061ka317"
+path="res://.godot/imported/ratio.glsl-f56eaab88e95afc7883633c9e55fc92d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/ratio.glsl"
+dest_files=["res://.godot/imported/ratio.glsl-f56eaab88e95afc7883633c9e55fc92d.res"]
+
+[params]
+

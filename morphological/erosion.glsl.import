@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cyjqd8bi1xpky"
+path="res://.godot/imported/erosion.glsl-e4fc5e2506c6f52bb1add72d878562f5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/morphological/erosion.glsl"
+dest_files=["res://.godot/imported/erosion.glsl-e4fc5e2506c6f52bb1add72d878562f5.res"]
+
+[params]
+

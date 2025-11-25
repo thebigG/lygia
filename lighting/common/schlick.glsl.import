@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dhlw3mk7bofd0"
+path="res://.godot/imported/schlick.glsl-7be74fb6d1b44b4317185042a928276c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/schlick.glsl"
+dest_files=["res://.godot/imported/schlick.glsl-7be74fb6d1b44b4317185042a928276c.res"]
+
+[params]
+

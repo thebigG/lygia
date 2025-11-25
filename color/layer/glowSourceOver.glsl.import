@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cg636abdh51wm"
+path="res://.godot/imported/glowSourceOver.glsl-671205ccfaf9e49caedab231b87b73f9.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/glowSourceOver.glsl"
+dest_files=["res://.godot/imported/glowSourceOver.glsl-671205ccfaf9e49caedab231b87b73f9.res"]
+
+[params]
+

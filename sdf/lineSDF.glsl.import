@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dpdu1tsajogb3"
+path="res://.godot/imported/lineSDF.glsl-10fc615f21d87ff4dd055131a193be0c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/lineSDF.glsl"
+dest_files=["res://.godot/imported/lineSDF.glsl-10fc615f21d87ff4dd055131a193be0c.res"]
+
+[params]
+

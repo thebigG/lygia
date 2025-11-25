@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cq1p7783ubo20"
+path="res://.godot/imported/backOut.glsl-da3a47576e63a102e34a35b163c6e246.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/backOut.glsl"
+dest_files=["res://.godot/imported/backOut.glsl-da3a47576e63a102e34a35b163c6e246.res"]
+
+[params]
+

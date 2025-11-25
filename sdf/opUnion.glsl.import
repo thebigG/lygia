@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dn7uslkwww3u8"
+path="res://.godot/imported/opUnion.glsl-9b53c4c7dc22778679cdc4e454054754.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/opUnion.glsl"
+dest_files=["res://.godot/imported/opUnion.glsl-9b53c4c7dc22778679cdc4e454054754.res"]
+
+[params]
+

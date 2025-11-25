@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bxlsfiool2mqq"
+path="res://.godot/imported/saturationSourceOver.glsl-661bad7aa7bbc70aecc46c4fe7b015aa.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/saturationSourceOver.glsl"
+dest_files=["res://.godot/imported/saturationSourceOver.glsl-661bad7aa7bbc70aecc46c4fe7b015aa.res"]
+
+[params]
+

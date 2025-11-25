@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dobblupnndffo"
+path="res://.godot/imported/transpose.glsl-cffe873d5528cafaa262e38cbca7caae.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/transpose.glsl"
+dest_files=["res://.godot/imported/transpose.glsl-cffe873d5528cafaa262e38cbca7caae.res"]
+
+[params]
+

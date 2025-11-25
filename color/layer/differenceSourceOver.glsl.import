@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://whap6safww3d"
+path="res://.godot/imported/differenceSourceOver.glsl-8c078d95a52eea729fbfb72cfb27682b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/differenceSourceOver.glsl"
+dest_files=["res://.godot/imported/differenceSourceOver.glsl-8c078d95a52eea729fbfb72cfb27682b.res"]
+
+[params]
+

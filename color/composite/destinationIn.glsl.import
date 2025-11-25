@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cx374sb2cm8l5"
+path="res://.godot/imported/destinationIn.glsl-d6c052d1e3e32ac8a9f1f24b1290ed40.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/composite/destinationIn.glsl"
+dest_files=["res://.godot/imported/destinationIn.glsl-d6c052d1e3e32ac8a9f1f24b1290ed40.res"]
+
+[params]
+

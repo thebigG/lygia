@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d32lxnip643gj"
+path="res://.godot/imported/point.glsl-e5eba79a2ed8faed42c8b9f5ffaa9cf8.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/light/point.glsl"
+dest_files=["res://.godot/imported/point.glsl-e5eba79a2ed8faed42c8b9f5ffaa9cf8.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bkxxvu2ce5wpg"
+path="res://.godot/imported/blend.glsl-baec30225e16aee34fbacc7c15c692d7.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/blend.glsl"
+dest_files=["res://.godot/imported/blend.glsl-baec30225e16aee34fbacc7c15c692d7.res"]
+
+[params]
+

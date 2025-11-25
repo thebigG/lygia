@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bm81sak15fyec"
+path="res://.godot/imported/golden_acrylic.glsl-cf725cc750333765dbd3aae774b03872.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/pigments/golden_acrylic.glsl"
+dest_files=["res://.godot/imported/golden_acrylic.glsl-cf725cc750333765dbd3aae774b03872.res"]
+
+[params]
+

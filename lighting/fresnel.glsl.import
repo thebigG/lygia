@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dkj52h5gpd2kx"
+path="res://.godot/imported/fresnel.glsl-143cd9ca4476921a60d97e9d75eccde5.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/fresnel.glsl"
+dest_files=["res://.godot/imported/fresnel.glsl-143cd9ca4476921a60d97e9d75eccde5.res"]
+
+[params]
+

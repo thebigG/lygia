@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cnv2oncmfg8vh"
+path="res://.godot/imported/sqTile.glsl-9e90e6f0e0eea94113ad88bfe00bd45e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/sqTile.glsl"
+dest_files=["res://.godot/imported/sqTile.glsl-9e90e6f0e0eea94113ad88bfe00bd45e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://xpm6qrq15dlr"
+path="res://.godot/imported/quinticInOut.glsl-fe8dcdaf1ecab7061c21d4acee6849ed.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/animation/easing/quinticInOut.glsl"
+dest_files=["res://.godot/imported/quinticInOut.glsl-fe8dcdaf1ecab7061c21d4acee6849ed.res"]
+
+[params]
+

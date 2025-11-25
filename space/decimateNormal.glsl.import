@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://clplobeb3p83l"
+path="res://.godot/imported/decimateNormal.glsl-4bff54df776c31f67d4b4cc988b76e62.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/decimateNormal.glsl"
+dest_files=["res://.godot/imported/decimateNormal.glsl-4bff54df776c31f67d4b4cc988b76e62.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://q5mg8vff8dnb"
+path="res://.godot/imported/exclusionSourceOver.glsl-bdc7848bc0a2ba1b663faab4c3142363.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/exclusionSourceOver.glsl"
+dest_files=["res://.godot/imported/exclusionSourceOver.glsl-bdc7848bc0a2ba1b663faab4c3142363.res"]
+
+[params]
+

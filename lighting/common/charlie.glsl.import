@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dg1p60nlvd0ds"
+path="res://.godot/imported/charlie.glsl-b9851904913553e84d652a2af3758f4c.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/charlie.glsl"
+dest_files=["res://.godot/imported/charlie.glsl-b9851904913553e84d652a2af3758f4c.res"]
+
+[params]
+

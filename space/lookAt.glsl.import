@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cs3i0pvjbtx60"
+path="res://.godot/imported/lookAt.glsl-7adb88a2d68d18229d0a5922dc98aa6a.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/lookAt.glsl"
+dest_files=["res://.godot/imported/lookAt.glsl-7adb88a2d68d18229d0a5922dc98aa6a.res"]
+
+[params]
+

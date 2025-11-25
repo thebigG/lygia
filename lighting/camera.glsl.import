@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c6h33d3pfkb67"
+path="res://.godot/imported/camera.glsl-a56099051649b9943ef4474ac6b3654d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/camera.glsl"
+dest_files=["res://.godot/imported/camera.glsl-a56099051649b9943ef4474ac6b3654d.res"]
+
+[params]
+

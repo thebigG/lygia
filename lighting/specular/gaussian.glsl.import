@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c58gkgcwbmw10"
+path="res://.godot/imported/gaussian.glsl-4e68a9da72bf8134e9e6508e5cb75272.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/specular/gaussian.glsl"
+dest_files=["res://.godot/imported/gaussian.glsl-4e68a9da72bf8134e9e6508e5cb75272.res"]
+
+[params]
+

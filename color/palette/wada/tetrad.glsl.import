@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://lwou8krd33bp"
+path="res://.godot/imported/tetrad.glsl-ee21e9bc9860defc8240b814cd947c8d.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/palette/wada/tetrad.glsl"
+dest_files=["res://.godot/imported/tetrad.glsl-ee21e9bc9860defc8240b814cd947c8d.res"]
+
+[params]
+

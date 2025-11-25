@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bf1vpvps04xhr"
+path="res://.godot/imported/hardLightSourceOver.glsl-9bc1b3cf5d0aaf1dcbbe8b0cbd03ea20.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/layer/hardLightSourceOver.glsl"
+dest_files=["res://.godot/imported/hardLightSourceOver.glsl-9bc1b3cf5d0aaf1dcbbe8b0cbd03ea20.res"]
+
+[params]
+

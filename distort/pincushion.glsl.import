@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://eum2tkcfkxm5"
+path="res://.godot/imported/pincushion.glsl-bf70a59b2407294a332b4d894e0bebf3.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/distort/pincushion.glsl"
+dest_files=["res://.godot/imported/pincushion.glsl-bf70a59b2407294a332b4d894e0bebf3.res"]
+
+[params]
+

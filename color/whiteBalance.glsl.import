@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cqe2jfub21g6u"
+path="res://.godot/imported/whiteBalance.glsl-60e2999457ea734162a5f2e964e4ab9f.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/color/whiteBalance.glsl"
+dest_files=["res://.godot/imported/whiteBalance.glsl-60e2999457ea734162a5f2e964e4ab9f.res"]
+
+[params]
+

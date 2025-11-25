@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://3n0yhrlv7b5v"
+path="res://.godot/imported/taylorInvSqrt.glsl-a2ac7e0d3601047beabd6c87320cddf1.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/taylorInvSqrt.glsl"
+dest_files=["res://.godot/imported/taylorInvSqrt.glsl-a2ac7e0d3601047beabd6c87320cddf1.res"]
+
+[params]
+

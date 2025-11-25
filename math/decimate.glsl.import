@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bsmvbyjw8n2fr"
+path="res://.godot/imported/decimate.glsl-ceceab53764bc51b0d0cc9342b13b8af.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/decimate.glsl"
+dest_files=["res://.godot/imported/decimate.glsl-ceceab53764bc51b0d0cc9342b13b8af.res"]
+
+[params]
+

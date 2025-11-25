@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dorsfkyl4uri0"
+path="res://.godot/imported/gerstnerWave.glsl-11f089d0376ee5fdd02fd8641d28ec0e.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/generative/gerstnerWave.glsl"
+dest_files=["res://.godot/imported/gerstnerWave.glsl-11f089d0376ee5fdd02fd8641d28ec0e.res"]
+
+[params]
+

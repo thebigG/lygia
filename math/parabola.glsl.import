@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bn6n77weifiqf"
+path="res://.godot/imported/parabola.glsl-e5b65aee29eb49258b0a65bb9745911f.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/math/parabola.glsl"
+dest_files=["res://.godot/imported/parabola.glsl-e5b65aee29eb49258b0a65bb9745911f.res"]
+
+[params]
+

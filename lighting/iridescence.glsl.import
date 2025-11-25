@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bjt2t8oc612fy"
+path="res://.godot/imported/iridescence.glsl-361e6796c2a2dc4fa602f960855842cc.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/iridescence.glsl"
+dest_files=["res://.godot/imported/iridescence.glsl-361e6796c2a2dc4fa602f960855842cc.res"]
+
+[params]
+

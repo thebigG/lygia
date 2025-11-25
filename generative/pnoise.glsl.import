@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bmnw2knfa8t8k"
+path="res://.godot/imported/pnoise.glsl-c3ecf3cf69326a13e41a84836b7eaa7f.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/generative/pnoise.glsl"
+dest_files=["res://.godot/imported/pnoise.glsl-c3ecf3cf69326a13e41a84836b7eaa7f.res"]
+
+[params]
+

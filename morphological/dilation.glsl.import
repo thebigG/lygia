@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dqrh1tnc3fbe"
+path="res://.godot/imported/dilation.glsl-4c0aaaf49dd893be8c9728854d7145a7.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/morphological/dilation.glsl"
+dest_files=["res://.godot/imported/dilation.glsl-4c0aaaf49dd893be8c9728854d7145a7.res"]
+
+[params]
+

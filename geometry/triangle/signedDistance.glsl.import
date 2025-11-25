@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://jq30f64db6c7"
+path="res://.godot/imported/signedDistance.glsl-e762dab4eccb4854ec6ba008d8925d68.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/geometry/triangle/signedDistance.glsl"
+dest_files=["res://.godot/imported/signedDistance.glsl-e762dab4eccb4854ec6ba008d8925d68.res"]
+
+[params]
+

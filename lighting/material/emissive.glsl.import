@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://mdg1u46ik7d5"
+path="res://.godot/imported/emissive.glsl-8e5716d2eef3c678f15645d9aae2196b.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/material/emissive.glsl"
+dest_files=["res://.godot/imported/emissive.glsl-8e5716d2eef3c678f15645d9aae2196b.res"]
+
+[params]
+

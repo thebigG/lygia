@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://buhusfvhk2y4p"
+path="res://.godot/imported/opRepeat.glsl-ccd3bda1df4aa2290013b5116cc3caf7.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/sdf/opRepeat.glsl"
+dest_files=["res://.godot/imported/opRepeat.glsl-ccd3bda1df4aa2290013b5116cc3caf7.res"]
+
+[params]
+

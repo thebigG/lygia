@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://du3tmerv4do8y"
+path="res://.godot/imported/burley.glsl-f1c4b477ce5544c59866b608926fae68.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/diffuse/burley.glsl"
+dest_files=["res://.godot/imported/burley.glsl-f1c4b477ce5544c59866b608926fae68.res"]
+
+[params]
+

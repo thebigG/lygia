@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ptfxikj5hgfs"
+path="res://.godot/imported/specularAO.glsl-9e35a3938a2f33ff60c88d39486d94d4.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/lighting/common/specularAO.glsl"
+dest_files=["res://.godot/imported/specularAO.glsl-9e35a3938a2f33ff60c88d39486d94d4.res"]
+
+[params]
+

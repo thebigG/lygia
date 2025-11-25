@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://yihucs6p8034"
+path="res://.godot/imported/downscale.glsl-0e24e9b6feb9ea6ee0b67887e3234c25.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/morphological/pyramid/downscale.glsl"
+dest_files=["res://.godot/imported/downscale.glsl-0e24e9b6feb9ea6ee0b67887e3234c25.res"]
+
+[params]
+

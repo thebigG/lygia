@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://57ip0f708uio"
+path="res://.godot/imported/kaleidoscope.glsl-fba56b85067fb66c78090f84bc74f2da.res"
+
+[deps]
+
+source_file="res://src/shaders/lygia/space/kaleidoscope.glsl"
+dest_files=["res://.godot/imported/kaleidoscope.glsl-fba56b85067fb66c78090f84bc74f2da.res"]
+
+[params]
+
